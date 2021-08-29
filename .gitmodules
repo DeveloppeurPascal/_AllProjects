@@ -1,0 +1,9 @@
+[submodule "ApprendreLaProgrammationAvecDelphi"]
+	path = ApprendreLaProgrammationAvecDelphi
+	url = https://github.com/DeveloppeurPascal/ApprendreLaProgrammationAvecDelphi.git
+[submodule "Utiliser-des-QR-codes-et-codes-a-barres"]
+	path = Utiliser-des-QR-codes-et-codes-a-barres
+	url = https://github.com/DeveloppeurPascal/Utiliser-des-QR-codes-et-codes-a-barres.git
+[submodule "COVID-ContactTracing-RestauBar"]
+	path = COVID-ContactTracing-RestauBar
+	url = https://github.com/DeveloppeurPascal/COVID-ContactTracing-RestauBar.git
