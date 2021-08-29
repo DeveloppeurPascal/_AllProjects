@@ -7,3 +7,138 @@
 [submodule "COVID-ContactTracing-RestauBar"]
 	path = COVID-ContactTracing-RestauBar
 	url = https://github.com/DeveloppeurPascal/COVID-ContactTracing-RestauBar.git
+[submodule "LearnToCodeSummerCamp2021"]
+	path = LearnToCodeSummerCamp2021
+	url = https://github.com/DeveloppeurPascal/LearnToCodeSummerCamp2021.git
+[submodule "DelphiFMXGameSnippets"]
+	path = DelphiFMXGameSnippets
+	url = https://github.com/DeveloppeurPascal/DelphiFMXGameSnippets.git
+[submodule "Faire-une-application-web-avec-Delphi"]
+	path = Faire-une-application-web-avec-Delphi
+	url = https://github.com/DeveloppeurPascal/Faire-une-application-web-avec-Delphi.git
+[submodule "librairies"]
+	path = librairies
+	url = https://github.com/DeveloppeurPascal/librairies.git
+[submodule "TetrisLike"]
+	path = TetrisLike
+	url = https://github.com/DeveloppeurPascal/TetrisLike.git
+[submodule "MonitoringTournamentPlayerScreen"]
+	path = MonitoringTournamentPlayerScreen
+	url = https://github.com/DeveloppeurPascal/MonitoringTournamentPlayerScreen.git
+[submodule "Delphi-NoCode-Library"]
+	path = Delphi-NoCode-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-NoCode-Library.git
+[submodule "DeepL-Delphi-client"]
+	path = DeepL-Delphi-client
+	url = https://github.com/DeveloppeurPascal/DeepL-Delphi-client.git
+[submodule "WhereIsBernie-GGJ21"]
+	path = WhereIsBernie-GGJ21
+	url = https://github.com/DeveloppeurPascal/WhereIsBernie-GGJ21.git
+[submodule "BoiteAMeuh"]
+	path = BoiteAMeuh
+	url = https://github.com/DeveloppeurPascal/BoiteAMeuh.git
+[submodule "My-Advent-Of-Code-Delphi-Projects"]
+	path = My-Advent-Of-Code-Delphi-Projects
+	url = https://github.com/DeveloppeurPascal/My-Advent-Of-Code-Delphi-Projects.git
+[submodule "DiffusionEtMisesAJourDeLogiciels"]
+	path = DiffusionEtMisesAJourDeLogiciels
+	url = https://github.com/DeveloppeurPascal/DiffusionEtMisesAJourDeLogiciels.git
+[submodule "DelphiBooks-API-delphi"]
+	path = DelphiBooks-API-delphi
+	url = https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi.git
+[submodule "DelphiEtLesTestsUnitaires"]
+	path = DelphiEtLesTestsUnitaires
+	url = https://github.com/DeveloppeurPascal/DelphiEtLesTestsUnitaires.git
+[submodule "DevelopperUneApplicationPourAndroidTVAvecDelphi"]
+	path = DevelopperUneApplicationPourAndroidTVAvecDelphi
+	url = https://github.com/DeveloppeurPascal/DevelopperUneApplicationPourAndroidTVAvecDelphi.git
+[submodule "androidtv-delphi"]
+	path = androidtv-delphi
+	url = https://github.com/DeveloppeurPascal/androidtv-delphi.git
+[submodule "SauvegarderEtRestaurerLEtatDesApplicationsMobiles"]
+	path = SauvegarderEtRestaurerLEtatDesApplicationsMobiles
+	url = https://github.com/DeveloppeurPascal/SauvegarderEtRestaurerLEtatDesApplicationsMobiles.git
+[submodule "GererLeClavierVirtuelSurIOSEtAndroid"]
+	path = GererLeClavierVirtuelSurIOSEtAndroid
+	url = https://github.com/DeveloppeurPascal/GererLeClavierVirtuelSurIOSEtAndroid.git
+[submodule "InternationaliserVosLogicielsVCLFMX"]
+	path = InternationaliserVosLogicielsVCLFMX
+	url = https://github.com/DeveloppeurPascal/InternationaliserVosLogicielsVCLFMX.git
+[submodule "LogNPass-Delphi"]
+	path = LogNPass-Delphi
+	url = https://github.com/DeveloppeurPascal/LogNPass-Delphi.git
+[submodule "exemples"]
+	path = exemples
+	url = https://github.com/DeveloppeurPascal/exemples.git
+[submodule "programmez-237"]
+	path = programmez-237
+	url = https://github.com/DeveloppeurPascal/programmez-237.git
+[submodule "Embarquer-une-base-de-donn-es-locale-dans-vos-logiciels-et-applications-mobiles"]
+	path = Embarquer-une-base-de-donn-es-locale-dans-vos-logiciels-et-applications-mobiles
+	url = https://github.com/DeveloppeurPascal/Embarquer-une-base-de-donn-es-locale-dans-vos-logiciels-et-applications-mobiles.git
+[submodule "demos-Paris-20191119-CongresDelphi2019"]
+	path = demos-Paris-20191119-CongresDelphi2019
+	url = https://github.com/DeveloppeurPascal/demos-Paris-20191119-CongresDelphi2019.git
+[submodule "Des-solutions-de-synchronisations-de-donnees"]
+	path = Des-solutions-de-synchronisations-de-donnees
+	url = https://github.com/DeveloppeurPascal/Des-solutions-de-synchronisations-de-donnees.git
+[submodule "Utilisation-de-FireDAC-avec-FMX"]
+	path = Utilisation-de-FireDAC-avec-FMX
+	url = https://github.com/DeveloppeurPascal/Utilisation-de-FireDAC-avec-FMX.git
+[submodule "Utilisation-de-FireDAC-avec-la-VCL"]
+	path = Utilisation-de-FireDAC-avec-la-VCL
+	url = https://github.com/DeveloppeurPascal/Utilisation-de-FireDAC-avec-la-VCL.git
+[submodule "demos-Strasbourg-20180622"]
+	path = demos-Strasbourg-20180622
+	url = https://github.com/DeveloppeurPascal/demos-Strasbourg-20180622.git
+[submodule "demos-Lyon-20180607"]
+	path = demos-Lyon-20180607
+	url = https://github.com/DeveloppeurPascal/demos-Lyon-20180607.git
+[submodule "demos-Paris-20180329"]
+	path = demos-Paris-20180329
+	url = https://github.com/DeveloppeurPascal/demos-Paris-20180329.git
+[submodule "demos-Brive-La-Gaillarde-20180208"]
+	path = demos-Brive-La-Gaillarde-20180208
+	url = https://github.com/DeveloppeurPascal/demos-Brive-La-Gaillarde-20180208.git
+[submodule "FMX-Notepad"]
+	path = FMX-Notepad
+	url = https://github.com/DeveloppeurPascal/FMX-Notepad.git
+[submodule "FMX-MultiPad"]
+	path = FMX-MultiPad
+	url = https://github.com/DeveloppeurPascal/FMX-MultiPad.git
+[submodule "GestionComptesPersonnels"]
+	path = GestionComptesPersonnels
+	url = https://github.com/DeveloppeurPascal/GestionComptesPersonnels.git
+[submodule "demos-Rennes-20180327"]
+	path = demos-Rennes-20180327
+	url = https://github.com/DeveloppeurPascal/demos-Rennes-20180327.git
+[submodule "programmez-217"]
+	path = programmez-217
+	url = https://github.com/DeveloppeurPascal/programmez-217.git
+[submodule "POCNotesDeFrais"]
+	path = POCNotesDeFrais
+	url = https://github.com/DeveloppeurPascal/POCNotesDeFrais.git
+[submodule "CodeRage2018-ChristmasGame"]
+	path = CodeRage2018-ChristmasGame
+	url = https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame.git
+[submodule "CCTRB-PHP-API-Server"]
+	path = CCTRB-PHP-API-Server
+	url = https://github.com/DeveloppeurPascal/CCTRB-PHP-API-Server.git
+[submodule "DC2-BlocHTML-Widget"]
+	path = DC2-BlocHTML-Widget
+	url = https://github.com/DeveloppeurPascal/DC2-BlocHTML-Widget.git
+[submodule "DC2-GoogleAdsense-widget"]
+	path = DC2-GoogleAdsense-widget
+	url = https://github.com/DeveloppeurPascal/DC2-GoogleAdsense-widget.git
+[submodule "LogNPass-JavaScript"]
+	path = LogNPass-JavaScript
+	url = https://github.com/DeveloppeurPascal/LogNPass-JavaScript.git
+[submodule "LogNPass-PHP"]
+	path = LogNPass-PHP
+	url = https://github.com/DeveloppeurPascal/LogNPass-PHP.git
+[submodule "DelphiBooks-API-JavaScript"]
+	path = DelphiBooks-API-JavaScript
+	url = https://github.com/DeveloppeurPascal/DelphiBooks-API-JavaScript.git
+[submodule "DelphiBooks-API-PHP"]
+	path = DelphiBooks-API-PHP
+	url = https://github.com/DeveloppeurPascal/DelphiBooks-API-PHP.git
