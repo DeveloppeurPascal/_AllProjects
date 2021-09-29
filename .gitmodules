@@ -142,3 +142,9 @@
 [submodule "DelphiBooks-API-PHP"]
 	path = DelphiBooks-API-PHP
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-API-PHP.git
+[submodule "Delphi-DBExtend-Library"]
+	path = Delphi-DBExtend-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-DBExtend-Library
+[submodule "Coder-sans-coder-Delphi-en-mode-nocode-c-est-possible"]
+	path = Coder-sans-coder-Delphi-en-mode-nocode-c-est-possible
+	url = https://github.com/DeveloppeurPascal/Coder-sans-coder-Delphi-en-mode-nocode-c-est-possible.git
