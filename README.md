@@ -1,5 +1,5 @@
 # All public DeveloppeurPascal projects in one project
-Install all of my repositories as sub folders of current folder.
+Install all of my public repositories as sub folders of current project.
 
 This project simplify downloading all repositories from DeveloppeurPascal GitHub account.
 
