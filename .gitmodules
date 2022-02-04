@@ -148,3 +148,6 @@
 [submodule "Coder-sans-coder-Delphi-en-mode-nocode-c-est-possible"]
 	path = Coder-sans-coder-Delphi-en-mode-nocode-c-est-possible
 	url = https://github.com/DeveloppeurPascal/Coder-sans-coder-Delphi-en-mode-nocode-c-est-possible.git
+[submodule "Tests-AJAX-JavaScript"]
+	path = Tests-AJAX-JavaScript
+	url = https://github.com/DeveloppeurPascal/Tests-AJAX-JavaScript.git
