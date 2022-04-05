@@ -151,3 +151,6 @@
 [submodule "Tests-AJAX-JavaScript"]
 	path = Tests-AJAX-JavaScript
 	url = https://github.com/DeveloppeurPascal/Tests-AJAX-JavaScript.git
+[submodule "Planning-API"]
+	path = Planning-API
+	url = https://github.com/DeveloppeurPascal/Planning-API.git
