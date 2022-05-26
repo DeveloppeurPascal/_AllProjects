@@ -151,3 +151,21 @@
 [submodule "Tests-AJAX-JavaScript"]
 	path = Tests-AJAX-JavaScript
 	url = https://github.com/DeveloppeurPascal/Tests-AJAX-JavaScript.git
+[submodule "Planning-API"]
+	path = Planning-API
+	url = https://github.com/DeveloppeurPascal/Planning-API.git
+[submodule "Casse-Briques"]
+	path = Casse-Briques
+	url = https://github.com/DeveloppeurPascal/Casse-Briques.git
+[submodule "Delphi-FMXExtend-Library"]
+	path = Delphi-FMXExtend-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-FMXExtend-Library.git
+[submodule "Delphi-VCLExtend-Library"]
+	path = Delphi-VCLExtend-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-VCLExtend-Library.git
+[submodule "FMXGameEngine"]
+	path = FMXGameEngine
+	url = https://github.com/DeveloppeurPascal/FMXGameEngine.git
+[submodule "programmez-hs7"]
+	path = programmez-hs7
+	url = https://github.com/DeveloppeurPascal/programmez-hs7.git
