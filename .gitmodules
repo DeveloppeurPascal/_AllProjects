@@ -169,3 +169,6 @@
 [submodule "programmez-hs7"]
 	path = programmez-hs7
 	url = https://github.com/DeveloppeurPascal/programmez-hs7.git
+[submodule "Text2HTML"]
+	path = Text2HTML
+	url = https://github.com/DeveloppeurPascal/Text2HTML.git
