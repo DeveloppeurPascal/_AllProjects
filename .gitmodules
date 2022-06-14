@@ -172,3 +172,6 @@
 [submodule "Text2HTML"]
 	path = Text2HTML
 	url = https://github.com/DeveloppeurPascal/Text2HTML.git
+[submodule "GooglePlayDeveloperBannerGenerator"]
+	path = GooglePlayDeveloperBannerGenerator
+	url = https://github.com/DeveloppeurPascal/GooglePlayDeveloperBannerGenerator.git
