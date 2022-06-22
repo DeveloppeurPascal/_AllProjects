@@ -175,3 +175,6 @@
 [submodule "GooglePlayDeveloperBannerGenerator"]
 	path = GooglePlayDeveloperBannerGenerator
 	url = https://github.com/DeveloppeurPascal/GooglePlayDeveloperBannerGenerator.git
+[submodule "ExeBulkSigning"]
+	path = ExeBulkSigning
+	url = https://github.com/DeveloppeurPascal/ExeBulkSigning.git
