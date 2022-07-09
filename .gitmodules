@@ -178,3 +178,6 @@
 [submodule "ExeBulkSigning"]
 	path = ExeBulkSigning
 	url = https://github.com/DeveloppeurPascal/ExeBulkSigning.git
+[submodule "Folder2FMXImageList"]
+	path = Folder2FMXImageList
+	url = https://github.com/DeveloppeurPascal/Folder2FMXImageList.git
