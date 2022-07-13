@@ -196,3 +196,6 @@
 [submodule "DelphiBooks-WebSite"]
 	path = DelphiBooks-WebSite
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-WebSite.git
+[submodule "DelphiBooks-Database"]
+	path = DelphiBooks-Database
+	url = https://github.com/DeveloppeurPascal/DelphiBooks-Database.git
