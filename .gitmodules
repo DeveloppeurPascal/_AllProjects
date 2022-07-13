@@ -193,3 +193,6 @@
 [submodule "DelphiBooks-website-template"]
 	path = DelphiBooks-website-template
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-website-template.git
+[submodule "DelphiBooks-WebSite"]
+	path = DelphiBooks-WebSite
+	url = https://github.com/DeveloppeurPascal/DelphiBooks-WebSite.git
