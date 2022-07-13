@@ -199,3 +199,6 @@
 [submodule "DelphiBooks-Database"]
 	path = DelphiBooks-Database
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-Database.git
+[submodule "Delphi-Learning-Resources"]
+	path = Delphi-Learning-Resources
+	url = https://github.com/DeveloppeurPascal/Delphi-Learning-Resources.git
