@@ -181,3 +181,6 @@
 [submodule "Folder2FMXImageList"]
 	path = Folder2FMXImageList
 	url = https://github.com/DeveloppeurPascal/Folder2FMXImageList.git
+[submodule "MD2HTML"]
+	path = MD2HTML
+	url = https://github.com/DeveloppeurPascal/MD2HTML.git
