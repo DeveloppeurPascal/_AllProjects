@@ -187,3 +187,6 @@
 [submodule "DelphiBooks-website-generator"]
 	path = DelphiBooks-website-generator
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-website-generator.git
+[submodule "DelphiBooks-Database-Editor"]
+	path = DelphiBooks-Database-Editor
+	url = https://github.com/DeveloppeurPascal/DelphiBooks-Database-Editor.git
