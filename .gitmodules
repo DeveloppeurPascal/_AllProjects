@@ -184,3 +184,6 @@
 [submodule "MD2HTML"]
 	path = MD2HTML
 	url = https://github.com/DeveloppeurPascal/MD2HTML.git
+[submodule "DelphiBooks-website-generator"]
+	path = DelphiBooks-website-generator
+	url = https://github.com/DeveloppeurPascal/DelphiBooks-website-generator.git
