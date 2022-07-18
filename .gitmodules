@@ -205,3 +205,6 @@
 [submodule "Delphi-OTAPI-Samples"]
 	path = Delphi-OTAPI-Samples
 	url = https://github.com/DeveloppeurPascal/Delphi-OTAPI-Samples.git
+[submodule "VaSur-Light"]
+	path = VaSur-Light
+	url = https://github.com/DeveloppeurPascal/VaSur-Light.git
