@@ -208,3 +208,6 @@
 [submodule "VaSur-Light"]
 	path = VaSur-Light
 	url = https://github.com/DeveloppeurPascal/VaSur-Light.git
+[submodule "Pascal-Learning-Resources"]
+	path = Pascal-Learning-Resources
+	url = https://github.com/DeveloppeurPascal/Pascal-Learning-Resources.git
