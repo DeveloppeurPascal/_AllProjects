@@ -211,3 +211,6 @@
 [submodule "Pascal-Learning-Resources"]
 	path = Pascal-Learning-Resources
 	url = https://github.com/DeveloppeurPascal/Pascal-Learning-Resources.git
+[submodule "Lazarus-Learning-Resources"]
+	path = Lazarus-Learning-Resources
+	url = https://github.com/DeveloppeurPascal/Lazarus-Learning-Resources.git
