@@ -214,3 +214,6 @@
 [submodule "Lazarus-Learning-Resources"]
 	path = Lazarus-Learning-Resources
 	url = https://github.com/DeveloppeurPascal/Lazarus-Learning-Resources.git
+[submodule "GitHubPages-Learning-Resources-Template"]
+	path = GitHubPages-Learning-Resources-Template
+	url = https://github.com/DeveloppeurPascal/GitHubPages-Learning-Resources-Template.git
