@@ -226,3 +226,6 @@
 [submodule "pointdbf-98"]
 	path = pointdbf-98
 	url = https://github.com/DeveloppeurPascal/pointdbf-98.git
+[submodule "pointdbf-96"]
+	path = pointdbf-96
+	url = https://github.com/DeveloppeurPascal/pointdbf-96.git
