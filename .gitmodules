@@ -223,3 +223,6 @@
 [submodule "informatiqueetdeveloppement-01"]
 	path = informatiqueetdeveloppement-01
 	url = https://github.com/DeveloppeurPascal/informatiqueetdeveloppement-01.git
+[submodule "pointdbf-98"]
+	path = pointdbf-98
+	url = https://github.com/DeveloppeurPascal/pointdbf-98.git
