@@ -220,3 +220,6 @@
 [submodule "informatiqueetdeveloppement-03"]
 	path = informatiqueetdeveloppement-03
 	url = https://github.com/DeveloppeurPascal/informatiqueetdeveloppement-03.git
+[submodule "informatiqueetdeveloppement-01"]
+	path = informatiqueetdeveloppement-01
+	url = https://github.com/DeveloppeurPascal/informatiqueetdeveloppement-01.git
