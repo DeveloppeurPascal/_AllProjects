@@ -235,3 +235,6 @@
 [submodule "CKEditor-plugins"]
 	path = CKEditor-plugins
 	url = https://github.com/DeveloppeurPascal/CKEditor-plugins.git
+[submodule "SPIP-FCKEditor-pugin"]
+	path = SPIP-FCKEditor-pugin
+	url = https://github.com/DeveloppeurPascal/SPIP-FCKEditor-pugin.git
