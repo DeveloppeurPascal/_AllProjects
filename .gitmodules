@@ -238,3 +238,6 @@
 [submodule "SPIP-FCKEditor-pugin"]
 	path = SPIP-FCKEditor-pugin
 	url = https://github.com/DeveloppeurPascal/SPIP-FCKEditor-pugin.git
+[submodule "Prestashop-SIPS-plugin"]
+	path = Prestashop-SIPS-plugin
+	url = https://github.com/DeveloppeurPascal/Prestashop-SIPS-plugin.git
