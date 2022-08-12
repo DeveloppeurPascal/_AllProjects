@@ -232,3 +232,6 @@
 [submodule "pascalissime-48"]
 	path = pascalissime-48
 	url = https://github.com/DeveloppeurPascal/pascalissime-48.git
+[submodule "CKEditor-plugins"]
+	path = CKEditor-plugins
+	url = https://github.com/DeveloppeurPascal/CKEditor-plugins.git
