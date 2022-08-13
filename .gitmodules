@@ -241,3 +241,6 @@
 [submodule "Prestashop-SIPS-plugin"]
 	path = Prestashop-SIPS-plugin
 	url = https://github.com/DeveloppeurPascal/Prestashop-SIPS-plugin.git
+[submodule "php-shopping-cart-management"]
+	path = php-shopping-cart-management
+	url = https://github.com/DeveloppeurPascal/php-shopping-cart-management.git
