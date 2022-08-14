@@ -247,3 +247,6 @@
 [submodule "web-picture-crop"]
 	path = web-picture-crop
 	url = https://github.com/DeveloppeurPascal/web-picture-crop.git
+[submodule "photo-album-generator"]
+	path = photo-album-generator
+	url = https://github.com/DeveloppeurPascal/photo-album-generator.git
