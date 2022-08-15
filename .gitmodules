@@ -253,3 +253,6 @@
 [submodule "one-shot-tools"]
 	path = one-shot-tools
 	url = https://github.com/DeveloppeurPascal/one-shot-tools.git
+[submodule "aspirateur-de-site-web"]
+	path = aspirateur-de-site-web
+	url = https://github.com/DeveloppeurPascal/aspirateur-de-site-web.git
