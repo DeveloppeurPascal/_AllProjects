@@ -250,3 +250,6 @@
 [submodule "photo-album-generator"]
 	path = photo-album-generator
 	url = https://github.com/DeveloppeurPascal/photo-album-generator.git
+[submodule "one-shot-tools"]
+	path = one-shot-tools
+	url = https://github.com/DeveloppeurPascal/one-shot-tools.git
