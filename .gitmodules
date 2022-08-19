@@ -199,24 +199,12 @@
 [submodule "DelphiBooks-Database"]
 	path = DelphiBooks-Database
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-Database.git
-[submodule "Delphi-Learning-Resources"]
-	path = Delphi-Learning-Resources
-	url = https://github.com/DeveloppeurPascal/Delphi-Learning-Resources.git
 [submodule "Delphi-OTAPI-Samples"]
 	path = Delphi-OTAPI-Samples
 	url = https://github.com/DeveloppeurPascal/Delphi-OTAPI-Samples.git
 [submodule "VaSur-Light"]
 	path = VaSur-Light
 	url = https://github.com/DeveloppeurPascal/VaSur-Light.git
-[submodule "Pascal-Learning-Resources"]
-	path = Pascal-Learning-Resources
-	url = https://github.com/DeveloppeurPascal/Pascal-Learning-Resources.git
-[submodule "Lazarus-Learning-Resources"]
-	path = Lazarus-Learning-Resources
-	url = https://github.com/DeveloppeurPascal/Lazarus-Learning-Resources.git
-[submodule "GitHubPages-Learning-Resources-Template"]
-	path = GitHubPages-Learning-Resources-Template
-	url = https://github.com/DeveloppeurPascal/GitHubPages-Learning-Resources-Template.git
 [submodule "informatiqueetdeveloppement-03"]
 	path = informatiqueetdeveloppement-03
 	url = https://github.com/DeveloppeurPascal/informatiqueetdeveloppement-03.git
@@ -256,3 +244,15 @@
 [submodule "aspirateur-de-site-web"]
 	path = aspirateur-de-site-web
 	url = https://github.com/DeveloppeurPascal/aspirateur-de-site-web.git
+[submodule "GitHubPages-Learning-Resources-Template"]
+	path = GitHubPages-Learning-Resources-Template
+	url = https://github.com/DeveloppeurPascal/GitHubPages-Learning-Resources-Template.git
+[submodule "Lazarus-Learning-Resources"]
+	path = Lazarus-Learning-Resources
+	url = https://github.com/DeveloppeurPascal/Lazarus-Learning-Resources.git
+[submodule "Pascal-Learning-Resources"]
+	path = Pascal-Learning-Resources
+	url = https://github.com/DeveloppeurPascal/Pascal-Learning-Resources.git
+[submodule "Delphi-Learning-Resources"]
+	path = Delphi-Learning-Resources
+	url = https://github.com/DeveloppeurPascal/Delphi-Learning-Resources.git
