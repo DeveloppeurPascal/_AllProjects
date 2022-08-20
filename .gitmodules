@@ -256,3 +256,6 @@
 [submodule "Delphi-Learning-Resources"]
 	path = Delphi-Learning-Resources
 	url = https://github.com/DeveloppeurPascal/Delphi-Learning-Resources.git
+[submodule "librairies-TurboPascal"]
+	path = librairies-TurboPascal
+	url = https://github.com/DeveloppeurPascal/librairies-TurboPascal.git
