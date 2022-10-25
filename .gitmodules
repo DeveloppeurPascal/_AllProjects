@@ -262,3 +262,6 @@
 [submodule "librairies-samples-and-tests"]
 	path = librairies-samples-and-tests
 	url = https://github.com/DeveloppeurPascal/librairies-samples-and-tests.git
+[submodule "PHP-API-Dump"]
+	path = PHP-API-Dump
+	url = https://github.com/DeveloppeurPascal/PHP-API-Dump.git
