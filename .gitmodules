@@ -265,3 +265,6 @@
 [submodule "PHP-API-Dump"]
 	path = PHP-API-Dump
 	url = https://github.com/DeveloppeurPascal/PHP-API-Dump.git
+[submodule "Fediverse-GET-URL-Tester"]
+	path = Fediverse-GET-URL-Tester
+	url = https://github.com/DeveloppeurPascal/Fediverse-GET-URL-Tester.git
