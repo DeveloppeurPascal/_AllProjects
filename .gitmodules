@@ -268,3 +268,6 @@
 [submodule "Fediverse-GET-URL-Tester"]
 	path = Fediverse-GET-URL-Tester
 	url = https://github.com/DeveloppeurPascal/Fediverse-GET-URL-Tester.git
+[submodule "LogNPass-app"]
+	path = LogNPass-app
+	url = https://github.com/DeveloppeurPascal/LogNPass-app.git
