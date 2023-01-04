@@ -106,9 +106,6 @@
 [submodule "GestionComptesPersonnels"]
 	path = GestionComptesPersonnels
 	url = https://github.com/DeveloppeurPascal/GestionComptesPersonnels.git
-[submodule "demos-Rennes-20180327"]
-	path = demos-Rennes-20180327
-	url = https://github.com/DeveloppeurPascal/demos-Rennes-20180327.git
 [submodule "programmez-217"]
 	path = programmez-217
 	url = https://github.com/DeveloppeurPascal/programmez-217.git
