@@ -76,9 +76,6 @@
 [submodule "Embarquer-une-base-de-donn-es-locale-dans-vos-logiciels-et-applications-mobiles"]
 	path = Embarquer-une-base-de-donn-es-locale-dans-vos-logiciels-et-applications-mobiles
 	url = https://github.com/DeveloppeurPascal/Embarquer-une-base-de-donn-es-locale-dans-vos-logiciels-et-applications-mobiles.git
-[submodule "demos-Paris-20191119-CongresDelphi2019"]
-	path = demos-Paris-20191119-CongresDelphi2019
-	url = https://github.com/DeveloppeurPascal/demos-Paris-20191119-CongresDelphi2019.git
 [submodule "Des-solutions-de-synchronisations-de-donnees"]
 	path = Des-solutions-de-synchronisations-de-donnees
 	url = https://github.com/DeveloppeurPascal/Des-solutions-de-synchronisations-de-donnees.git
