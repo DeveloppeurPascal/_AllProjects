@@ -91,9 +91,6 @@
 [submodule "demos-Strasbourg-20180622"]
 	path = demos-Strasbourg-20180622
 	url = https://github.com/DeveloppeurPascal/demos-Strasbourg-20180622.git
-[submodule "demos-Lyon-20180607"]
-	path = demos-Lyon-20180607
-	url = https://github.com/DeveloppeurPascal/demos-Lyon-20180607.git
 [submodule "FMX-Notepad"]
 	path = FMX-Notepad
 	url = https://github.com/DeveloppeurPascal/FMX-Notepad.git
