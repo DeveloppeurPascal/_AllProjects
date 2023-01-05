@@ -1,5 +1,7 @@
 # Tous les projets publics de DeveloppeurPascal en un seul dépôt
 
+[This page in english.](README.md)
+
 Installe tous mes projets publics sous la forme de sous dossiers de celui-ci.
 
 Ce dépôt de code simplifie le téléchargement de tous les dépôts [du compte GitHub DeveloppeurPascal](https://github.com/DeveloppeurPascal) et leurs dépendances.

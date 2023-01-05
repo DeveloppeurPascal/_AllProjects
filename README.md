@@ -1,5 +1,7 @@
 # All public DeveloppeurPascal projects in one project
 
+[Cette page en français.](LISEZMOI.md)
+
 Install all of my public repositories as sub folders of current project.
 
 This code repository simplify downloading all repositories from [DeveloppeurPascal GitHub account](https://github.com/DeveloppeurPascal) and their dependencies.
