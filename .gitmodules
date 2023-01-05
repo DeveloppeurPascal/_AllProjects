@@ -88,9 +88,6 @@
 [submodule "Utilisation-de-FireDAC-avec-la-VCL"]
 	path = Utilisation-de-FireDAC-avec-la-VCL
 	url = https://github.com/DeveloppeurPascal/Utilisation-de-FireDAC-avec-la-VCL.git
-[submodule "demos-Strasbourg-20180622"]
-	path = demos-Strasbourg-20180622
-	url = https://github.com/DeveloppeurPascal/demos-Strasbourg-20180622.git
 [submodule "FMX-Notepad"]
 	path = FMX-Notepad
 	url = https://github.com/DeveloppeurPascal/FMX-Notepad.git
