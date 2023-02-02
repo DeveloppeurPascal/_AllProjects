@@ -265,3 +265,6 @@
 [submodule "Automatically-Translate-Your-Programs-with-DeepL-API"]
 	path = Automatically-Translate-Your-Programs-with-DeepL-API
 	url = https://github.com/DeveloppeurPascal/Automatically-Translate-Your-Programs-with-DeepL-API.git
+[submodule "Creating-a-Simple-Web-Server-with-WebBroker"]
+	path = Creating-a-Simple-Web-Server-with-WebBroker
+	url = https://github.com/DeveloppeurPascal/Creating-a-Simple-Web-Server-with-WebBroker.git
