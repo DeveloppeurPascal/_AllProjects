@@ -262,3 +262,6 @@
 [submodule "PicMobGenerator"]
 	path = PicMobGenerator
 	url = https://github.com/DeveloppeurPascal/PicMobGenerator.git
+[submodule "Automatically-Translate-Your-Programs-with-DeepL-API"]
+	path = Automatically-Translate-Your-Programs-with-DeepL-API
+	url = https://github.com/DeveloppeurPascal/Automatically-Translate-Your-Programs-with-DeepL-API.git
