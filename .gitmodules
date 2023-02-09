@@ -268,3 +268,6 @@
 [submodule "Creating-a-Simple-Web-Server-with-WebBroker"]
 	path = Creating-a-Simple-Web-Server-with-WebBroker
 	url = https://github.com/DeveloppeurPascal/Creating-a-Simple-Web-Server-with-WebBroker.git
+[submodule "Delphi-Translation-Library"]
+	path = Delphi-Translation-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-Translation-Library.git
