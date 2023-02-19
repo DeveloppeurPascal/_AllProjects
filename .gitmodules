@@ -271,3 +271,6 @@
 [submodule "Delphi-Translation-Library"]
 	path = Delphi-Translation-Library
 	url = https://github.com/DeveloppeurPascal/Delphi-Translation-Library.git
+[submodule "PHP-OTP-code-by-SMS"]
+	path = PHP-OTP-code-by-SMS
+	url = https://github.com/DeveloppeurPascal/PHP-OTP-code-by-SMS.git
