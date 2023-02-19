@@ -274,3 +274,6 @@
 [submodule "PHP-OTP-code-by-SMS"]
 	path = PHP-OTP-code-by-SMS
 	url = https://github.com/DeveloppeurPascal/PHP-OTP-code-by-SMS.git
+[submodule "PHP-OTP-code-by-email"]
+	path = PHP-OTP-code-by-email
+	url = https://github.com/DeveloppeurPascal/PHP-OTP-code-by-email.git
