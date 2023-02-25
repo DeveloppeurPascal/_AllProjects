@@ -6,9 +6,11 @@ Installe tous mes projets publics sous la forme de sous dossiers de celui-ci.
 
 Ce dépôt de code simplifie le téléchargement de tous les dépôts [du compte GitHub DeveloppeurPascal](https://github.com/DeveloppeurPascal) et leurs dépendances.
 
-Si vous téléchargez un fichier ZIP depuis GitHub il sera vide. Vous devez utiliser la commande "git" ou une interface utilisateur dédiée pour cloner ou dupliquer ce dépôt et ses sous-modules.
+Il contient des projets développés en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
-# Installation
+## Installation
+
+Si vous téléchargez un fichier ZIP depuis GitHub il sera vide. Vous devez utiliser la commande "git" ou une interface utilisateur dédiée pour cloner ou dupliquer ce dépôt et ses sous-modules.
 
 Après avoir cloné le dépôt n'oubliez pas de mettre à jour les projets liés avec cette commande :
 
@@ -28,6 +30,14 @@ git submodule update --remote
 ## Licence
 
 Ce projet est sous licence MIT. Ce n'est pas le cas de mes autres projets. Regardez leurs fichiers LICENSE et README.md (ou LISEZMOI.md) avant de faire des bêtises.
+
+## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
+
+Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/_AllProjects) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/_AllProjects/issues).
+
+Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
+
+Vous pouvez aussi cloner ce dépôt de code et participer à ses évolutions en soumettant vos modifications si vous le désirez. Lisez les explications dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Supportez ce projet et son auteur
 

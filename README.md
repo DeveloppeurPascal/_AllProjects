@@ -1,4 +1,4 @@
-# All public DeveloppeurPascal projects in one project
+# All public DeveloppeurPascal projects in one code repository
 
 [Cette page en français.](LISEZMOI.md)
 
@@ -6,9 +6,11 @@ Install all of my public repositories as sub folders of current project.
 
 This code repository simplify downloading all repositories from [DeveloppeurPascal GitHub account](https://github.com/DeveloppeurPascal) and their dependencies.
 
-If you download a ZIP file from GitHub it will be empty. You must use "git" command or a GUI to clone or fork this code repository with its submodules.
+It contains projects developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
-# Install
+## Install
+
+If you download a ZIP file from GitHub it will be empty. You must use "git" command or a GUI to clone or fork this code repository with its submodules.
 
 After cloning this repository, don't forget to update all projects with the command :
 
@@ -28,6 +30,14 @@ git submodule update --remote
 ## License
 
 This project is under the MIT license. It's not the case for all of my other projects. Look as each one LICENSE and README.md file before doing garbage.
+
+## How to ask a new feature, report a bug or a security issue ?
+
+If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/_AllProjects) and [open a new issue](https://github.com/DeveloppeurPascal/_AllProjects/issues).
+
+If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
+
+You also can fork the repository and contribute by submitting pull requests if you want to help. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## Support the project and its author
 
