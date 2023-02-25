@@ -280,3 +280,6 @@
 [submodule "PHP-PasswordLess-Mail-Authentication"]
 	path = PHP-PasswordLess-Mail-Authentication
 	url = https://github.com/DeveloppeurPascal/PHP-PasswordLess-Mail-Authentication.git
+[submodule "TaquinDXBooks"]
+	path = TaquinDXBooks
+	url = https://github.com/DeveloppeurPascal/TaquinDXBooks.git
