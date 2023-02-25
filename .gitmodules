@@ -286,3 +286,6 @@
 [submodule "Promo-Verif"]
 	path = Promo-Verif
 	url = https://github.com/DeveloppeurPascal/Promo-Verif.git
+[submodule "LemonSqueezy4Delphi"]
+	path = LemonSqueezy4Delphi
+	url = https://github.com/DeveloppeurPascal/LemonSqueezy4Delphi.git
