@@ -289,3 +289,6 @@
 [submodule "Gumroad4Delphi"]
 	path = Gumroad4Delphi
 	url = https://github.com/DeveloppeurPascal/Gumroad4Delphi.git
+[submodule "LogNPass-Delphi"]
+	path = LogNPass-Delphi
+	url = https://github.com/DeveloppeurPascal/LogNPass-Delphi.git
