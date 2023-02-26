@@ -64,9 +64,6 @@
 [submodule "InternationaliserVosLogicielsVCLFMX"]
 	path = InternationaliserVosLogicielsVCLFMX
 	url = https://github.com/DeveloppeurPascal/InternationaliserVosLogicielsVCLFMX.git
-[submodule "LogNPass-Delphi"]
-	path = LogNPass-Delphi
-	url = https://github.com/DeveloppeurPascal/LogNPass-Delphi.git
 [submodule "exemples"]
 	path = exemples
 	url = https://github.com/DeveloppeurPascal/exemples.git
