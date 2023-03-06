@@ -292,3 +292,6 @@
 [submodule "LogNPass-Delphi"]
 	path = LogNPass-Delphi
 	url = https://github.com/DeveloppeurPascal/LogNPass-Delphi.git
+[submodule "Quoi-de-neuf-dans-RAD-Studio-Delphi-Et-CPPBuilder"]
+	path = Quoi-de-neuf-dans-RAD-Studio-Delphi-Et-CPPBuilder
+	url = https://github.com/DeveloppeurPascal/Quoi-de-neuf-dans-RAD-Studio-Delphi-Et-CPPBuilder.git
