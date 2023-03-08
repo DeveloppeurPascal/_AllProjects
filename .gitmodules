@@ -295,3 +295,6 @@
 [submodule "Quoi-de-neuf-dans-RAD-Studio-Delphi-Et-CPPBuilder"]
 	path = Quoi-de-neuf-dans-RAD-Studio-Delphi-Et-CPPBuilder
 	url = https://github.com/DeveloppeurPascal/Quoi-de-neuf-dans-RAD-Studio-Delphi-Et-CPPBuilder.git
+[submodule "Video-Title-Page-Generator"]
+	path = Video-Title-Page-Generator
+	url = https://github.com/DeveloppeurPascal/Video-Title-Page-Generator.git
