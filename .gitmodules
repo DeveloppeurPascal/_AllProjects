@@ -298,3 +298,6 @@
 [submodule "Video-Title-Page-Generator"]
 	path = Video-Title-Page-Generator
 	url = https://github.com/DeveloppeurPascal/Video-Title-Page-Generator.git
+[submodule "My-day-in-pictures"]
+	path = My-day-in-pictures
+	url = https://github.com/DeveloppeurPascal/My-day-in-pictures.git
