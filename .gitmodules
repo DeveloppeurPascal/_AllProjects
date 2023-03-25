@@ -301,3 +301,6 @@
 [submodule "My-day-in-pictures"]
 	path = My-day-in-pictures
 	url = https://github.com/DeveloppeurPascal/My-day-in-pictures.git
+[submodule "Pic-Resize"]
+	path = Pic-Resize
+	url = https://github.com/DeveloppeurPascal/Pic-Resize.git
