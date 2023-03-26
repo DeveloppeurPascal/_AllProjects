@@ -304,3 +304,6 @@
 [submodule "Pic-Resize"]
 	path = Pic-Resize
 	url = https://github.com/DeveloppeurPascal/Pic-Resize.git
+[submodule "Spooch"]
+	path = Spooch
+	url = https://github.com/DeveloppeurPascal/Spooch.git
