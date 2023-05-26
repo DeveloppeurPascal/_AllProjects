@@ -367,3 +367,6 @@
 [submodule "CoSiFoWiDe"]
 	path = CoSiFoWiDe
 	url = https://github.com/DeveloppeurPascal/CoSiFoWiDe.git
+[submodule "Draw-on-clouds"]
+	path = Draw-on-clouds
+	url = https://github.com/DeveloppeurPascal/Draw-on-clouds.git
