@@ -379,3 +379,6 @@
 [submodule "Meme-Teo"]
 	path = Meme-Teo
 	url = https://github.com/DeveloppeurPascal/Meme-Teo.git
+[submodule "MyPics"]
+	path = MyPics
+	url = https://github.com/DeveloppeurPascal/MyPics.git
