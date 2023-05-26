@@ -391,3 +391,6 @@
 [submodule "Table-Data-Sync-library"]
 	path = Table-Data-Sync-library
 	url = https://github.com/DeveloppeurPascal/Table-Data-Sync-library.git
+[submodule "Text-Line-Cut"]
+	path = Text-Line-Cut
+	url = https://github.com/DeveloppeurPascal/Text-Line-Cut.git
