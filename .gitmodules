@@ -376,3 +376,6 @@
 [submodule "LJC"]
 	path = LJC
 	url = https://github.com/DeveloppeurPascal/LJC.git
+[submodule "Meme-Teo"]
+	path = Meme-Teo
+	url = https://github.com/DeveloppeurPascal/Meme-Teo.git
