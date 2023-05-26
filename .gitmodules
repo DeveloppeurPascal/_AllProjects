@@ -403,3 +403,6 @@
 [submodule "WtCtS"]
 	path = WtCtS
 	url = https://github.com/DeveloppeurPascal/WtCtS.git
+[submodule "Citations-pour-le-web"]
+	path = Citations-pour-le-web
+	url = https://github.com/DeveloppeurPascal/Citations-pour-le-web.git
