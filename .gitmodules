@@ -388,3 +388,6 @@
 [submodule "Styles-Showroom"]
 	path = Styles-Showroom
 	url = https://github.com/DeveloppeurPascal/Styles-Showroom.git
+[submodule "Table-Data-Sync-library"]
+	path = Table-Data-Sync-library
+	url = https://github.com/DeveloppeurPascal/Table-Data-Sync-library.git
