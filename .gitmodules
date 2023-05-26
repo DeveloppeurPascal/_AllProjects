@@ -373,3 +373,6 @@
 [submodule "GestDL"]
 	path = GestDL
 	url = https://github.com/DeveloppeurPascal/GestDL.git
+[submodule "LJC"]
+	path = LJC
+	url = https://github.com/DeveloppeurPascal/LJC.git
