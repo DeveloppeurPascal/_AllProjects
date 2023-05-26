@@ -355,3 +355,6 @@
 [submodule "Aweber-promo-extract"]
 	path = Aweber-promo-extract
 	url = https://github.com/DeveloppeurPascal/Aweber-promo-extract.git
+[submodule "Bloginus"]
+	path = Bloginus
+	url = https://github.com/DeveloppeurPascal/Bloginus.git
