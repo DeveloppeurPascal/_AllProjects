@@ -358,3 +358,6 @@
 [submodule "Bloginus"]
 	path = Bloginus
 	url = https://github.com/DeveloppeurPascal/Bloginus.git
+[submodule "BoutikOlf"]
+	path = BoutikOlf
+	url = https://github.com/DeveloppeurPascal/BoutikOlf.git
