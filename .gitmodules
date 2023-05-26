@@ -361,3 +361,6 @@
 [submodule "BoutikOlf"]
 	path = BoutikOlf
 	url = https://github.com/DeveloppeurPascal/BoutikOlf.git
+[submodule "Button-Generator"]
+	path = Button-Generator
+	url = https://github.com/DeveloppeurPascal/Button-Generator.git
