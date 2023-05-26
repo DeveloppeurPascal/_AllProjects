@@ -352,3 +352,6 @@
 [submodule "Blufo"]
 	path = Blufo
 	url = https://github.com/DeveloppeurPascal/Blufo.git
+[submodule "Aweber-promo-extract"]
+	path = Aweber-promo-extract
+	url = https://github.com/DeveloppeurPascal/Aweber-promo-extract.git
