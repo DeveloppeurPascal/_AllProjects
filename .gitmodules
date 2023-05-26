@@ -409,3 +409,6 @@
 [submodule "Films-vus-au-cine"]
 	path = Films-vus-au-cine
 	url = https://github.com/DeveloppeurPascal/Films-vus-au-cine.git
+[submodule "GenSite"]
+	path = GenSite
+	url = https://github.com/DeveloppeurPascal/GenSite.git
