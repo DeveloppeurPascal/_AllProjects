@@ -412,3 +412,6 @@
 [submodule "GenSite"]
 	path = GenSite
 	url = https://github.com/DeveloppeurPascal/GenSite.git
+[submodule "Web-META-Generator"]
+	path = Web-META-Generator
+	url = https://github.com/DeveloppeurPascal/Web-META-Generator.git
