@@ -415,3 +415,6 @@
 [submodule "Web-META-Generator"]
 	path = Web-META-Generator
 	url = https://github.com/DeveloppeurPascal/Web-META-Generator.git
+[submodule "Website-Moved"]
+	path = Website-Moved
+	url = https://github.com/DeveloppeurPascal/Website-Moved.git
