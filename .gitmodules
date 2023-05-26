@@ -382,3 +382,6 @@
 [submodule "MyPics"]
 	path = MyPics
 	url = https://github.com/DeveloppeurPascal/MyPics.git
+[submodule "PrevBudget"]
+	path = PrevBudget
+	url = https://github.com/DeveloppeurPascal/PrevBudget.git
