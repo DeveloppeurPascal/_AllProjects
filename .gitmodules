@@ -364,3 +364,6 @@
 [submodule "Button-Generator"]
 	path = Button-Generator
 	url = https://github.com/DeveloppeurPascal/Button-Generator.git
+[submodule "CoSiFoWiDe"]
+	path = CoSiFoWiDe
+	url = https://github.com/DeveloppeurPascal/CoSiFoWiDe.git
