@@ -400,3 +400,6 @@
 [submodule "Web-Task-Scheduler"]
 	path = Web-Task-Scheduler
 	url = https://github.com/DeveloppeurPascal/Web-Task-Scheduler.git
+[submodule "WtCtS"]
+	path = WtCtS
+	url = https://github.com/DeveloppeurPascal/WtCtS.git
