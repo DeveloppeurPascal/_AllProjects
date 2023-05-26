@@ -385,3 +385,6 @@
 [submodule "PrevBudget"]
 	path = PrevBudget
 	url = https://github.com/DeveloppeurPascal/PrevBudget.git
+[submodule "Styles-Showroom"]
+	path = Styles-Showroom
+	url = https://github.com/DeveloppeurPascal/Styles-Showroom.git
