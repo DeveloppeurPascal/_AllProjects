@@ -394,3 +394,6 @@
 [submodule "Text-Line-Cut"]
 	path = Text-Line-Cut
 	url = https://github.com/DeveloppeurPascal/Text-Line-Cut.git
+[submodule "Vigetz"]
+	path = Vigetz
+	url = https://github.com/DeveloppeurPascal/Vigetz.git
