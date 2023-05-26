@@ -406,3 +406,6 @@
 [submodule "Citations-pour-le-web"]
 	path = Citations-pour-le-web
 	url = https://github.com/DeveloppeurPascal/Citations-pour-le-web.git
+[submodule "Films-vus-au-cine"]
+	path = Films-vus-au-cine
+	url = https://github.com/DeveloppeurPascal/Films-vus-au-cine.git
