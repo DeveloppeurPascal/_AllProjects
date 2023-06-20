@@ -418,3 +418,6 @@
 [submodule "Website-Moved"]
 	path = Website-Moved
 	url = https://github.com/DeveloppeurPascal/Website-Moved.git
+[submodule "Zicplay"]
+	path = Zicplay
+	url = https://github.com/DeveloppeurPascal/Zicplay.git
