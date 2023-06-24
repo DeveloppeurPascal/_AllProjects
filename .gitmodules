@@ -112,9 +112,6 @@
 [submodule "LogNPass-PHP"]
 	path = LogNPass-PHP
 	url = https://github.com/DeveloppeurPascal/LogNPass-PHP.git
-[submodule "DelphiBooks-API-PHP"]
-	path = DelphiBooks-API-PHP
-	url = https://github.com/DeveloppeurPascal/DelphiBooks-API-PHP.git
 [submodule "Delphi-DBExtend-Library"]
 	path = Delphi-DBExtend-Library
 	url = https://github.com/DeveloppeurPascal/Delphi-DBExtend-Library
@@ -409,3 +406,6 @@
 [submodule "DelphiBooks4JavaScript"]
 	path = DelphiBooks4JavaScript
 	url = https://github.com/DeveloppeurPascal/DelphiBooks4JavaScript.git
+[submodule "DelphiBooks4PHP"]
+	path = DelphiBooks4PHP
+	url = https://github.com/DeveloppeurPascal/DelphiBooks4PHP.git
