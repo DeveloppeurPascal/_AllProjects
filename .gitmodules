@@ -415,3 +415,6 @@
 [submodule "DelphiBooks-WSBuilder"]
 	path = DelphiBooks-WSBuilder
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-WSBuilder.git
+[submodule "DelphiBooks-DBAdmin"]
+	path = DelphiBooks-DBAdmin
+	url = https://github.com/DeveloppeurPascal/DelphiBooks-DBAdmin.git
