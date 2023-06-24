@@ -43,9 +43,6 @@
 [submodule "DiffusionEtMisesAJourDeLogiciels"]
 	path = DiffusionEtMisesAJourDeLogiciels
 	url = https://github.com/DeveloppeurPascal/DiffusionEtMisesAJourDeLogiciels.git
-[submodule "DelphiBooks-API-delphi"]
-	path = DelphiBooks-API-delphi
-	url = https://github.com/DeveloppeurPascal/DelphiBooks-API-delphi.git
 [submodule "DelphiEtLesTestsUnitaires"]
 	path = DelphiEtLesTestsUnitaires
 	url = https://github.com/DeveloppeurPascal/DelphiEtLesTestsUnitaires.git
@@ -409,3 +406,6 @@
 [submodule "Delphi-Game-Engine"]
 	path = Delphi-Game-Engine
 	url = https://github.com/DeveloppeurPascal/Delphi-Game-Engine.git
+[submodule "DelphiBooks4Delphi"]
+	path = DelphiBooks4Delphi
+	url = https://github.com/DeveloppeurPascal/DelphiBooks4Delphi.git
