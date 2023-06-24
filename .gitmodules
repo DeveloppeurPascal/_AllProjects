@@ -409,3 +409,6 @@
 [submodule "DelphiBooks4PHP"]
 	path = DelphiBooks4PHP
 	url = https://github.com/DeveloppeurPascal/DelphiBooks4PHP.git
+[submodule "DelphiBooks-Common"]
+	path = DelphiBooks-Common
+	url = https://github.com/DeveloppeurPascal/DelphiBooks-Common.git
