@@ -142,9 +142,6 @@
 [submodule "Delphi-VCLExtend-Library"]
 	path = Delphi-VCLExtend-Library
 	url = https://github.com/DeveloppeurPascal/Delphi-VCLExtend-Library.git
-[submodule "FMXGameEngine"]
-	path = FMXGameEngine
-	url = https://github.com/DeveloppeurPascal/FMXGameEngine.git
 [submodule "programmez-hs7"]
 	path = programmez-hs7
 	url = https://github.com/DeveloppeurPascal/programmez-hs7.git
@@ -409,3 +406,6 @@
 [submodule "Zicplay"]
 	path = Zicplay
 	url = https://github.com/DeveloppeurPascal/Zicplay.git
+[submodule "Delphi-Game-Engine"]
+	path = Delphi-Game-Engine
+	url = https://github.com/DeveloppeurPascal/Delphi-Game-Engine.git
