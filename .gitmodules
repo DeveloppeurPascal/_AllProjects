@@ -166,9 +166,6 @@
 [submodule "DelphiBooks-website-generator"]
 	path = DelphiBooks-website-generator
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-website-generator.git
-[submodule "DelphiBooks-website-template"]
-	path = DelphiBooks-website-template
-	url = https://github.com/DeveloppeurPascal/DelphiBooks-website-template.git
 [submodule "DelphiBooks-WebSite"]
 	path = DelphiBooks-WebSite
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-WebSite.git
