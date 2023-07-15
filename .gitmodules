@@ -418,3 +418,6 @@
 [submodule "DelphiBooks-DBAdmin"]
 	path = DelphiBooks-DBAdmin
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-DBAdmin.git
+[submodule "Audio-Tools-Library"]
+	path = Audio-Tools-Library
+	url = https://github.com/DeveloppeurPascal/Audio-Tools-Library.git
