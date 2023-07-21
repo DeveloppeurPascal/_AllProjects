@@ -421,3 +421,6 @@
 [submodule "Audio-Tools-Library"]
 	path = Audio-Tools-Library
 	url = https://github.com/DeveloppeurPascal/Audio-Tools-Library.git
+[submodule "Sporgloo"]
+	path = Sporgloo
+	url = https://github.com/DeveloppeurPascal/Sporgloo.git
