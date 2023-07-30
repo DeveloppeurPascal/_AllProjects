@@ -331,15 +331,9 @@
 [submodule "Aweber-promo-extract"]
 	path = Aweber-promo-extract
 	url = https://github.com/DeveloppeurPascal/Aweber-promo-extract.git
-[submodule "Bloginus"]
-	path = Bloginus
-	url = https://github.com/DeveloppeurPascal/Bloginus.git
 [submodule "BoutikOlf"]
 	path = BoutikOlf
 	url = https://github.com/DeveloppeurPascal/BoutikOlf.git
-[submodule "Button-Generator"]
-	path = Button-Generator
-	url = https://github.com/DeveloppeurPascal/Button-Generator.git
 [submodule "CoSiFoWiDe"]
 	path = CoSiFoWiDe
 	url = https://github.com/DeveloppeurPascal/CoSiFoWiDe.git
@@ -373,9 +367,6 @@
 [submodule "Vigetz"]
 	path = Vigetz
 	url = https://github.com/DeveloppeurPascal/Vigetz.git
-[submodule "Web-Task-Scheduler"]
-	path = Web-Task-Scheduler
-	url = https://github.com/DeveloppeurPascal/Web-Task-Scheduler.git
 [submodule "WtCtS"]
 	path = WtCtS
 	url = https://github.com/DeveloppeurPascal/WtCtS.git
