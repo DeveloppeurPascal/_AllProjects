@@ -418,3 +418,6 @@
 [submodule "Socket-Messaging-Library"]
 	path = Socket-Messaging-Library
 	url = https://github.com/DeveloppeurPascal/Socket-Messaging-Library.git
+[submodule "1TPE4Delphi"]
+	path = 1TPE4Delphi
+	url = https://github.com/DeveloppeurPascal/1TPE4Delphi.git
