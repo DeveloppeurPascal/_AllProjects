@@ -424,3 +424,6 @@
 [submodule "FastSpring4Delphi"]
 	path = FastSpring4Delphi
 	url = https://github.com/DeveloppeurPascal/FastSpring4Delphi.git
+[submodule "Signature-Delphi-Component"]
+	path = Signature-Delphi-Component
+	url = https://github.com/DeveloppeurPascal/Signature-Delphi-Component.git
