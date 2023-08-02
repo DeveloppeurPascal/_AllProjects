@@ -430,3 +430,6 @@
 [submodule "__MyMinimalDependenciesForWorkingWithDelphi"]
 	path = __MyMinimalDependenciesForWorkingWithDelphi
 	url = https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi.git
+[submodule "__MyMinimalDependenciesForWorkingWithPHP"]
+	path = __MyMinimalDependenciesForWorkingWithPHP
+	url = https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithPHP.git
