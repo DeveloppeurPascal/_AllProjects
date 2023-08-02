@@ -427,3 +427,6 @@
 [submodule "Signature-Delphi-Component"]
 	path = Signature-Delphi-Component
 	url = https://github.com/DeveloppeurPascal/Signature-Delphi-Component.git
+[submodule "__MyMinimalDependenciesForWorkingWithDelphi"]
+	path = __MyMinimalDependenciesForWorkingWithDelphi
+	url = https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi.git
