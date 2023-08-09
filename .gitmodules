@@ -433,3 +433,6 @@
 [submodule "__MyMinimalDependenciesForWorkingWithPHP"]
 	path = __MyMinimalDependenciesForWorkingWithPHP
 	url = https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithPHP.git
+[submodule "Socket-Messaging-Code-Generator"]
+	path = Socket-Messaging-Code-Generator
+	url = https://github.com/DeveloppeurPascal/Socket-Messaging-Code-Generator.git
