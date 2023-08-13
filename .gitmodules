@@ -430,3 +430,6 @@
 [submodule "PHP-UserPassword-Basics"]
 	path = PHP-UserPassword-Basics
 	url = https://github.com/DeveloppeurPascal/PHP-UserPassword-Basics.git
+[submodule "Passwordless-Authentication-Basics"]
+	path = Passwordless-Authentication-Basics
+	url = https://github.com/DeveloppeurPascal/Passwordless-Authentication-Basics.git
