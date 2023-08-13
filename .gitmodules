@@ -436,3 +436,6 @@
 [submodule "Socket-Messaging-Code-Generator"]
 	path = Socket-Messaging-Code-Generator
 	url = https://github.com/DeveloppeurPascal/Socket-Messaging-Code-Generator.git
+[submodule "PHP-UserPassword-Basics"]
+	path = PHP-UserPassword-Basics
+	url = https://github.com/DeveloppeurPascal/PHP-UserPassword-Basics.git
