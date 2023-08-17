@@ -433,3 +433,6 @@
 [submodule "Passwordless-Authentication-Basics"]
 	path = Passwordless-Authentication-Basics
 	url = https://github.com/DeveloppeurPascal/Passwordless-Authentication-Basics.git
+[submodule "PHP-UserPassword-2FA-With-LogNPass"]
+	path = PHP-UserPassword-2FA-With-LogNPass
+	url = https://github.com/DeveloppeurPascal/PHP-UserPassword-2FA-With-LogNPass.git
