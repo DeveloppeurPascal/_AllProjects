@@ -439,3 +439,6 @@
 [submodule "OTP-Authentication-Basics"]
 	path = OTP-Authentication-Basics
 	url = https://github.com/DeveloppeurPascal/OTP-Authentication-Basics.git
+[submodule "DCB2023-Socket-Messaging-library-and-generator"]
+	path = DCB2023-Socket-Messaging-library-and-generator
+	url = https://github.com/DeveloppeurPascal/DCB2023-Socket-Messaging-library-and-generator.git
