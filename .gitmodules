@@ -436,3 +436,6 @@
 [submodule "PHP-UserPassword-2FA-With-LogNPass"]
 	path = PHP-UserPassword-2FA-With-LogNPass
 	url = https://github.com/DeveloppeurPascal/PHP-UserPassword-2FA-With-LogNPass.git
+[submodule "OTP-Authentication-Basics"]
+	path = OTP-Authentication-Basics
+	url = https://github.com/DeveloppeurPascal/OTP-Authentication-Basics.git
