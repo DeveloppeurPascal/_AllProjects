@@ -148,15 +148,9 @@
 [submodule "Folder2FMXImageList"]
 	path = Folder2FMXImageList
 	url = https://github.com/DeveloppeurPascal/Folder2FMXImageList.git
-[submodule "MD2HTML"]
-	path = MD2HTML
-	url = https://github.com/DeveloppeurPascal/MD2HTML.git
 [submodule "DelphiBooks-WebSite"]
 	path = DelphiBooks-WebSite
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-WebSite.git
-[submodule "Delphi-OTAPI-Samples"]
-	path = Delphi-OTAPI-Samples
-	url = https://github.com/DeveloppeurPascal/Delphi-OTAPI-Samples.git
 [submodule "VaSur-Light"]
 	path = VaSur-Light
 	url = https://github.com/DeveloppeurPascal/VaSur-Light.git
@@ -250,12 +244,6 @@
 [submodule "Promo-Verif"]
 	path = Promo-Verif
 	url = https://github.com/DeveloppeurPascal/Promo-Verif.git
-[submodule "LemonSqueezy4Delphi"]
-	path = LemonSqueezy4Delphi
-	url = https://github.com/DeveloppeurPascal/LemonSqueezy4Delphi.git
-[submodule "Gumroad4Delphi"]
-	path = Gumroad4Delphi
-	url = https://github.com/DeveloppeurPascal/Gumroad4Delphi.git
 [submodule "LogNPass-Delphi"]
 	path = LogNPass-Delphi
 	url = https://github.com/DeveloppeurPascal/LogNPass-Delphi.git
@@ -280,102 +268,6 @@
 [submodule "Egg-Hunter"]
 	path = Egg-Hunter
 	url = https://github.com/DeveloppeurPascal/Egg-Hunter.git
-[submodule "DAD48"]
-	path = DAD48
-	url = https://github.com/DeveloppeurPascal/DAD48.git
-[submodule "Bidioo"]
-	path = Bidioo
-	url = https://github.com/DeveloppeurPascal/Bidioo.git
-[submodule "Blotatris"]
-	path = Blotatris
-	url = https://github.com/DeveloppeurPascal/Blotatris.git
-[submodule "Colblor"]
-	path = Colblor
-	url = https://github.com/DeveloppeurPascal/Colblor.git
-[submodule "Digikoo"]
-	path = Digikoo
-	url = https://github.com/DeveloppeurPascal/Digikoo.git
-[submodule "Eggpaq"]
-	path = Eggpaq
-	url = https://github.com/DeveloppeurPascal/Eggpaq.git
-[submodule "Laby10s"]
-	path = Laby10s
-	url = https://github.com/DeveloppeurPascal/Laby10s.git
-[submodule "Ok-Ducky"]
-	path = Ok-Ducky
-	url = https://github.com/DeveloppeurPascal/Ok-Ducky.git
-[submodule "Pairpix"]
-	path = Pairpix
-	url = https://github.com/DeveloppeurPascal/Pairpix.git
-[submodule "Pompach"]
-	path = Pompach
-	url = https://github.com/DeveloppeurPascal/Pompach.git
-[submodule "Pumpkin-Killer"]
-	path = Pumpkin-Killer
-	url = https://github.com/DeveloppeurPascal/Pumpkin-Killer.git
-[submodule "Soap-Bubbles"]
-	path = Soap-Bubbles
-	url = https://github.com/DeveloppeurPascal/Soap-Bubbles.git
-[submodule "Blufo"]
-	path = Blufo
-	url = https://github.com/DeveloppeurPascal/Blufo.git
-[submodule "Aweber-promo-extract"]
-	path = Aweber-promo-extract
-	url = https://github.com/DeveloppeurPascal/Aweber-promo-extract.git
-[submodule "BoutikOlf"]
-	path = BoutikOlf
-	url = https://github.com/DeveloppeurPascal/BoutikOlf.git
-[submodule "CoSiFoWiDe"]
-	path = CoSiFoWiDe
-	url = https://github.com/DeveloppeurPascal/CoSiFoWiDe.git
-[submodule "Draw-on-clouds"]
-	path = Draw-on-clouds
-	url = https://github.com/DeveloppeurPascal/Draw-on-clouds.git
-[submodule "GestDL"]
-	path = GestDL
-	url = https://github.com/DeveloppeurPascal/GestDL.git
-[submodule "LJC"]
-	path = LJC
-	url = https://github.com/DeveloppeurPascal/LJC.git
-[submodule "Meme-Teo"]
-	path = Meme-Teo
-	url = https://github.com/DeveloppeurPascal/Meme-Teo.git
-[submodule "MyPics"]
-	path = MyPics
-	url = https://github.com/DeveloppeurPascal/MyPics.git
-[submodule "PrevBudget"]
-	path = PrevBudget
-	url = https://github.com/DeveloppeurPascal/PrevBudget.git
-[submodule "Styles-Showroom"]
-	path = Styles-Showroom
-	url = https://github.com/DeveloppeurPascal/Styles-Showroom.git
-[submodule "Table-Data-Sync-library"]
-	path = Table-Data-Sync-library
-	url = https://github.com/DeveloppeurPascal/Table-Data-Sync-library.git
-[submodule "Text-Line-Cut"]
-	path = Text-Line-Cut
-	url = https://github.com/DeveloppeurPascal/Text-Line-Cut.git
-[submodule "Vigetz"]
-	path = Vigetz
-	url = https://github.com/DeveloppeurPascal/Vigetz.git
-[submodule "WtCtS"]
-	path = WtCtS
-	url = https://github.com/DeveloppeurPascal/WtCtS.git
-[submodule "Citations-pour-le-web"]
-	path = Citations-pour-le-web
-	url = https://github.com/DeveloppeurPascal/Citations-pour-le-web.git
-[submodule "Films-vus-au-cine"]
-	path = Films-vus-au-cine
-	url = https://github.com/DeveloppeurPascal/Films-vus-au-cine.git
-[submodule "GenSite"]
-	path = GenSite
-	url = https://github.com/DeveloppeurPascal/GenSite.git
-[submodule "Web-META-Generator"]
-	path = Web-META-Generator
-	url = https://github.com/DeveloppeurPascal/Web-META-Generator.git
-[submodule "Website-Moved"]
-	path = Website-Moved
-	url = https://github.com/DeveloppeurPascal/Website-Moved.git
 [submodule "Zicplay"]
 	path = Zicplay
 	url = https://github.com/DeveloppeurPascal/Zicplay.git
@@ -409,15 +301,6 @@
 [submodule "Socket-Messaging-Library"]
 	path = Socket-Messaging-Library
 	url = https://github.com/DeveloppeurPascal/Socket-Messaging-Library.git
-[submodule "1TPE4Delphi"]
-	path = 1TPE4Delphi
-	url = https://github.com/DeveloppeurPascal/1TPE4Delphi.git
-[submodule "FastSpring4Delphi"]
-	path = FastSpring4Delphi
-	url = https://github.com/DeveloppeurPascal/FastSpring4Delphi.git
-[submodule "Signature-Delphi-Component"]
-	path = Signature-Delphi-Component
-	url = https://github.com/DeveloppeurPascal/Signature-Delphi-Component.git
 [submodule "__MyMinimalDependenciesForWorkingWithDelphi"]
 	path = __MyMinimalDependenciesForWorkingWithDelphi
 	url = https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi.git
