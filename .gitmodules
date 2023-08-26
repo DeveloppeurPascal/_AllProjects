@@ -328,3 +328,6 @@
 [submodule "DCB2023-Responsive-Design-With-FireMonkey"]
 	path = DCB2023-Responsive-Design-With-FireMonkey
 	url = https://github.com/DeveloppeurPascal/DCB2023-Responsive-Design-With-FireMonkey.git
+[submodule "WtCtS"]
+	path = WtCtS
+	url = https://github.com/DeveloppeurPascal/WtCtS.git
