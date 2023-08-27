@@ -331,3 +331,6 @@
 [submodule "WtCtS"]
 	path = WtCtS
 	url = https://github.com/DeveloppeurPascal/WtCtS.git
+[submodule "Pumpkin-Killer"]
+	path = Pumpkin-Killer
+	url = https://github.com/DeveloppeurPascal/Pumpkin-Killer.git
