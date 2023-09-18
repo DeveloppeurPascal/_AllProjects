@@ -337,3 +337,6 @@
 [submodule "Pompach"]
 	path = Pompach
 	url = https://github.com/DeveloppeurPascal/Pompach.git
+[submodule "SUTOM_Helper"]
+	path = SUTOM_Helper
+	url = https://github.com/DeveloppeurPascal/SUTOM_Helper.git
