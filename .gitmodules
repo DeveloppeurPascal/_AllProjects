@@ -340,3 +340,6 @@
 [submodule "SUTOM_Helper"]
 	path = SUTOM_Helper
 	url = https://github.com/DeveloppeurPascal/SUTOM_Helper.git
+[submodule "YTVideoSeries"]
+	path = YTVideoSeries
+	url = https://github.com/DeveloppeurPascal/YTVideoSeries.git
