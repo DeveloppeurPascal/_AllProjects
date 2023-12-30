@@ -343,3 +343,6 @@
 [submodule "YTVideoSeries"]
 	path = YTVideoSeries
 	url = https://github.com/DeveloppeurPascal/YTVideoSeries.git
+[submodule "LemonSqueezy4Delphi"]
+	path = LemonSqueezy4Delphi
+	url = https://github.com/DeveloppeurPascal/LemonSqueezy4Delphi.git
