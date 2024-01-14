@@ -346,3 +346,6 @@
 [submodule "LemonSqueezy4Delphi"]
 	path = LemonSqueezy4Delphi
 	url = https://github.com/DeveloppeurPascal/LemonSqueezy4Delphi.git
+[submodule "App-Stores-Screen-Captures-Generator"]
+	path = App-Stores-Screen-Captures-Generator
+	url = https://github.com/DeveloppeurPascal/App-Stores-Screen-Captures-Generator.git
