@@ -349,3 +349,6 @@
 [submodule "App-Stores-Screen-Captures-Generator"]
 	path = App-Stores-Screen-Captures-Generator
 	url = https://github.com/DeveloppeurPascal/App-Stores-Screen-Captures-Generator.git
+[submodule "ASSCG-Data-Admin"]
+	path = ASSCG-Data-Admin
+	url = https://github.com/DeveloppeurPascal/ASSCG-Data-Admin.git
