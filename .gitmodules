@@ -352,3 +352,6 @@
 [submodule "ASSCG-Data-Admin"]
 	path = ASSCG-Data-Admin
 	url = https://github.com/DeveloppeurPascal/ASSCG-Data-Admin.git
+[submodule "Fie-Frapic"]
+	path = Fie-Frapic
+	url = https://github.com/DeveloppeurPascal/Fie-Frapic.git
