@@ -355,3 +355,6 @@
 [submodule "Fie-Frapic"]
 	path = Fie-Frapic
 	url = https://github.com/DeveloppeurPascal/Fie-Frapic.git
+[submodule "HTMLwriter"]
+	path = HTMLwriter
+	url = https://github.com/DeveloppeurPascal/HTMLwriter.git
