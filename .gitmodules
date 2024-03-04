@@ -358,3 +358,6 @@
 [submodule "HTMLwriter"]
 	path = HTMLwriter
 	url = https://github.com/DeveloppeurPascal/HTMLwriter.git
+[submodule "Pairpix"]
+	path = Pairpix
+	url = https://github.com/DeveloppeurPascal/Pairpix.git
