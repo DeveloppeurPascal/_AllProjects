@@ -361,3 +361,6 @@
 [submodule "Pairpix"]
 	path = Pairpix
 	url = https://github.com/DeveloppeurPascal/Pairpix.git
+[submodule "XOR-Keys-Generator"]
+	path = XOR-Keys-Generator
+	url = https://github.com/DeveloppeurPascal/XOR-Keys-Generator.git
