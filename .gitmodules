@@ -367,3 +367,6 @@
 [submodule "librairies-JavaScript"]
 	path = librairies-JavaScript
 	url = https://github.com/DeveloppeurPascal/librairies-JavaScript.git
+[submodule "librairies-PHP"]
+	path = librairies-PHP
+	url = https://github.com/DeveloppeurPascal/librairies-PHP.git
