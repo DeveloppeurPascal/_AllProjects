@@ -364,3 +364,6 @@
 [submodule "XOR-Keys-Generator"]
 	path = XOR-Keys-Generator
 	url = https://github.com/DeveloppeurPascal/XOR-Keys-Generator.git
+[submodule "librairies-JavaScript"]
+	path = librairies-JavaScript
+	url = https://github.com/DeveloppeurPascal/librairies-JavaScript.git
