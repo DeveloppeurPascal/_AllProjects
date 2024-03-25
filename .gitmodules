@@ -370,3 +370,6 @@
 [submodule "librairies-PHP"]
 	path = librairies-PHP
 	url = https://github.com/DeveloppeurPascal/librairies-PHP.git
+[submodule "Swap-Keys-Generator"]
+	path = Swap-Keys-Generator
+	url = https://github.com/DeveloppeurPascal/Swap-Keys-Generator.git
