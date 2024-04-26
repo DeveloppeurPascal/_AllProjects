@@ -376,3 +376,6 @@
 [submodule "IDB-keys-Generator"]
 	path = IDB-keys-Generator
 	url = https://github.com/DeveloppeurPascal/IDB-keys-Generator.git
+[submodule "librairies-Python"]
+	path = librairies-Python
+	url = https://github.com/DeveloppeurPascal/librairies-Python.git
