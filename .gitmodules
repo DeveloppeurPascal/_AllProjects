@@ -385,3 +385,6 @@
 [submodule "librairies-Swift"]
 	path = librairies-Swift
 	url = https://github.com/DeveloppeurPascal/librairies-Swift.git
+[submodule "Shift-Keys-Generator"]
+	path = Shift-Keys-Generator
+	url = https://github.com/DeveloppeurPascal/Shift-Keys-Generator.git
