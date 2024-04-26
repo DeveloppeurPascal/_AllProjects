@@ -373,3 +373,6 @@
 [submodule "Swap-Keys-Generator"]
 	path = Swap-Keys-Generator
 	url = https://github.com/DeveloppeurPascal/Swap-Keys-Generator.git
+[submodule "IDB-keys-Generator"]
+	path = IDB-keys-Generator
+	url = https://github.com/DeveloppeurPascal/IDB-keys-Generator.git
