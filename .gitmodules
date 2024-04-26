@@ -382,3 +382,6 @@
 [submodule "librairies-C"]
 	path = librairies-C
 	url = https://github.com/DeveloppeurPascal/librairies-C.git
+[submodule "librairies-Swift"]
+	path = librairies-Swift
+	url = https://github.com/DeveloppeurPascal/librairies-Swift.git
