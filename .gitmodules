@@ -379,3 +379,6 @@
 [submodule "librairies-Python"]
 	path = librairies-Python
 	url = https://github.com/DeveloppeurPascal/librairies-Python.git
+[submodule "librairies-C"]
+	path = librairies-C
+	url = https://github.com/DeveloppeurPascal/librairies-C.git
