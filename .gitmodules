@@ -388,3 +388,6 @@
 [submodule "Shift-Keys-Generator"]
 	path = Shift-Keys-Generator
 	url = https://github.com/DeveloppeurPascal/Shift-Keys-Generator.git
+[submodule "DProj2WinSetup"]
+	path = DProj2WinSetup
+	url = https://github.com/DeveloppeurPascal/DProj2WinSetup.git
