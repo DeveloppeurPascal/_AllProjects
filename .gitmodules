@@ -391,3 +391,6 @@
 [submodule "DProj2WinSetup"]
 	path = DProj2WinSetup
 	url = https://github.com/DeveloppeurPascal/DProj2WinSetup.git
+[submodule "LeTempsDUneTomate"]
+	path = LeTempsDUneTomate
+	url = https://github.com/DeveloppeurPascal/LeTempsDUneTomate.git
