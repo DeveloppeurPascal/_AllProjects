@@ -394,3 +394,6 @@
 [submodule "LeTempsDUneTomate"]
 	path = LeTempsDUneTomate
 	url = https://github.com/DeveloppeurPascal/LeTempsDUneTomate.git
+[submodule "Delphi-SkiaExtend-Library"]
+	path = Delphi-SkiaExtend-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-SkiaExtend-Library.git
