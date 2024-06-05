@@ -397,3 +397,6 @@
 [submodule "Delphi-SkiaExtend-Library"]
 	path = Delphi-SkiaExtend-Library
 	url = https://github.com/DeveloppeurPascal/Delphi-SkiaExtend-Library.git
+[submodule "VideoMerger"]
+	path = VideoMerger
+	url = https://github.com/DeveloppeurPascal/VideoMerger.git
