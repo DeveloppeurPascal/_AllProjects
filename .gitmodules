@@ -406,3 +406,6 @@
 [submodule "TMSTrainingDays2024-Binding-Data-To-Client-Apps"]
 	path = TMSTrainingDays2024-Binding-Data-To-Client-Apps
 	url = https://github.com/DeveloppeurPascal/TMSTrainingDays2024-Binding-Data-To-Client-Apps
+[submodule "TableDataSync4PHP"]
+	path = TableDataSync4PHP
+	url = https://github.com/DeveloppeurPascal/TableDataSync4PHP.git
