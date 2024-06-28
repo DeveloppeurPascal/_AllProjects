@@ -424,3 +424,6 @@
 [submodule "Video-Cutter"]
 	path = Video-Cutter
 	url = https://github.com/DeveloppeurPascal/Video-Cutter.git
+[submodule "KoFi-API-Webhook-Endpoint"]
+	path = KoFi-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/KoFi-API-Webhook-Endpoint.git
