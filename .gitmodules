@@ -397,9 +397,6 @@
 [submodule "Delphi-SkiaExtend-Library"]
 	path = Delphi-SkiaExtend-Library
 	url = https://github.com/DeveloppeurPascal/Delphi-SkiaExtend-Library.git
-[submodule "VideoMerger"]
-	path = VideoMerger
-	url = https://github.com/DeveloppeurPascal/VideoMerger.git
 [submodule "DelphiSummit2024-Synchronize-Your-Databases"]
 	path = DelphiSummit2024-Synchronize-Your-Databases
 	url = https://github.com/DeveloppeurPascal/DelphiSummit2024-Synchronize-Your-Databases
