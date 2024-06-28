@@ -421,3 +421,6 @@
 [submodule "Video-Splitter"]
 	path = Video-Splitter
 	url = https://github.com/DeveloppeurPascal/Video-Splitter.git
+[submodule "Video-Cutter"]
+	path = Video-Cutter
+	url = https://github.com/DeveloppeurPascal/Video-Cutter.git
