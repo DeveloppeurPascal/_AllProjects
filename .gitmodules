@@ -418,3 +418,6 @@
 [submodule "FSoDB4PHP"]
 	path = FSoDB4PHP
 	url = https://github.com/DeveloppeurPascal/FSoDB4PHP.git
+[submodule "Video-Splitter"]
+	path = Video-Splitter
+	url = https://github.com/DeveloppeurPascal/Video-Splitter.git
