@@ -430,3 +430,6 @@
 [submodule "Spritesheet-Splitter"]
 	path = Spritesheet-Splitter
 	url = https://github.com/DeveloppeurPascal/Spritesheet-Splitter.git
+[submodule "Spritesheet-Creator"]
+	path = Spritesheet-Creator
+	url = https://github.com/DeveloppeurPascal/Spritesheet-Creator.git
