@@ -427,3 +427,6 @@
 [submodule "Video-Merger"]
 	path = Video-Merger
 	url = https://github.com/DeveloppeurPascal/Video-Merger.git
+[submodule "Spritesheet-Splitter"]
+	path = Spritesheet-Splitter
+	url = https://github.com/DeveloppeurPascal/Spritesheet-Splitter.git
