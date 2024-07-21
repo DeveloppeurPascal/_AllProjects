@@ -433,3 +433,6 @@
 [submodule "Spritesheet-Creator"]
 	path = Spritesheet-Creator
 	url = https://github.com/DeveloppeurPascal/Spritesheet-Creator.git
+[submodule "Ploumtris-KenneyJam2024"]
+	path = Ploumtris-KenneyJam2024
+	url = https://github.com/DeveloppeurPascal/Ploumtris-KenneyJam2024.git
