@@ -436,3 +436,6 @@
 [submodule "Ploumtris-KenneyJam2024"]
 	path = Ploumtris-KenneyJam2024
 	url = https://github.com/DeveloppeurPascal/Ploumtris-KenneyJam2024.git
+[submodule "SVGFolder2DelphiUnit"]
+	path = SVGFolder2DelphiUnit
+	url = https://github.com/DeveloppeurPascal/SVGFolder2DelphiUnit.git
