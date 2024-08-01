@@ -1,6 +1,6 @@
 # Tous les projets publics de DeveloppeurPascal en un seul dépôt
 
-[This page in english.](README.md)
+[This page in English.](README.md)
 
 Installe tous mes projets publics sous la forme de sous dossiers de celui-ci.
 
