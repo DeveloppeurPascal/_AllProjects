@@ -439,3 +439,6 @@
 [submodule "SVGFolder2DelphiUnit"]
 	path = SVGFolder2DelphiUnit
 	url = https://github.com/DeveloppeurPascal/SVGFolder2DelphiUnit.git
+[submodule "CopyrightPascalProjects"]
+	path = CopyrightPascalProjects
+	url = https://github.com/DeveloppeurPascal/CopyrightPascalProjects.git
