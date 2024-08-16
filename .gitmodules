@@ -448,3 +448,6 @@
 [submodule "DevDaysOfSummer2024-MakeGamesInDelphi"]
 	path = DevDaysOfSummer2024-MakeGamesInDelphi
 	url = https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-MakeGamesInDelphi.git
+[submodule "Gamolf-FMX-Game-Starter-Kit"]
+	path = Gamolf-FMX-Game-Starter-Kit
+	url = https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
