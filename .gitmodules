@@ -445,3 +445,6 @@
 [submodule "DevDaysOfSummer2024-UseSVGImagesInDelphi"]
 	path = DevDaysOfSummer2024-UseSVGImagesInDelphi
 	url = https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-UseSVGImagesInDelphi.git
+[submodule "DevDaysOfSummer2024-MakeGamesInDelphi"]
+	path = DevDaysOfSummer2024-MakeGamesInDelphi
+	url = https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-MakeGamesInDelphi.git
