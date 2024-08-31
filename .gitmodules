@@ -451,6 +451,3 @@
 [submodule "Gamolf-FMX-Game-Starter-Kit"]
 	path = Gamolf-FMX-Game-Starter-Kit
 	url = https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
-[submodule "DevPas-TemplatesAndStarterKits-Pack"]
-	path = DevPas-TemplatesAndStarterKits-Pack
-	url = https://github.com/DeveloppeurPascal/DevPas-TemplatesAndStarterKits-Pack.git
