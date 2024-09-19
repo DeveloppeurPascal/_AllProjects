@@ -457,3 +457,6 @@
 [submodule "VCL-Tools-Starter-Kit"]
 	path = VCL-Tools-Starter-Kit
 	url = https://github.com/DeveloppeurPascal/VCL-Tools-Starter-Kit.git
+[submodule "Blufo"]
+	path = Blufo
+	url = https://github.com/DeveloppeurPascal/Blufo.git
