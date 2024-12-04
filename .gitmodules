@@ -469,3 +469,6 @@
 [submodule "Game-StrategieFlore-MSDOS-TurboPascal"]
 	path = Game-StrategieFlore-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Game-StrategieFlore-MSDOS-TurboPascal.git
+[submodule "Game-Pendu-MSDOS-TurboPascal"]
+	path = Game-Pendu-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-Pendu-MSDOS-TurboPascal.git
