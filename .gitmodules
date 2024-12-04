@@ -475,3 +475,6 @@
 [submodule "Game-Demineur-MSDOS-TurboPascal"]
 	path = Game-Demineur-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Game-Demineur-MSDOS-TurboPascal.git
+[submodule "Deltree-MSDOS-TurboPascal"]
+	path = Deltree-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Deltree-MSDOS-TurboPascal.git
