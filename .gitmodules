@@ -466,3 +466,6 @@
 [submodule "Digikoo-v2-Delphi"]
 	path = Digikoo-v2-Delphi
 	url = https://github.com/DeveloppeurPascal/Digikoo-v2-Delphi.git
+[submodule "Game-StrategieFlore-MSDOS-TurboPascal"]
+	path = Game-StrategieFlore-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-StrategieFlore-MSDOS-TurboPascal.git
