@@ -472,3 +472,6 @@
 [submodule "Game-Pendu-MSDOS-TurboPascal"]
 	path = Game-Pendu-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Game-Pendu-MSDOS-TurboPascal.git
+[submodule "Game-Demineur-MSDOS-TurboPascal"]
+	path = Game-Demineur-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-Demineur-MSDOS-TurboPascal.git
