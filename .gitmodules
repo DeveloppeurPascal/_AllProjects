@@ -478,3 +478,6 @@
 [submodule "Deltree-MSDOS-TurboPascal"]
 	path = Deltree-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Deltree-MSDOS-TurboPascal.git
+[submodule "Game-LodeRunner-MSDOS-TurboPascal"]
+	path = Game-LodeRunner-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-LodeRunner-MSDOS-TurboPascal.git
