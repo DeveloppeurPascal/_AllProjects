@@ -481,3 +481,6 @@
 [submodule "Game-LodeRunner-MSDOS-TurboPascal"]
 	path = Game-LodeRunner-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Game-LodeRunner-MSDOS-TurboPascal.git
+[submodule "Game-Copter-MSDOS-TurboPascal"]
+	path = Game-Copter-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-Copter-MSDOS-TurboPascal.git
