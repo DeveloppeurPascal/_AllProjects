@@ -484,3 +484,6 @@
 [submodule "Game-Copter-MSDOS-TurboPascal"]
 	path = Game-Copter-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Game-Copter-MSDOS-TurboPascal.git
+[submodule "Mouse-Cursor-Maker-MSDOS-TurboPascal"]
+	path = Mouse-Cursor-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Mouse-Cursor-Maker-MSDOS-TurboPascal.git
