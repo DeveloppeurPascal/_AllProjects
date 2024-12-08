@@ -487,3 +487,6 @@
 [submodule "Mouse-Cursor-Maker-MSDOS-TurboPascal"]
 	path = Mouse-Cursor-Maker-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Mouse-Cursor-Maker-MSDOS-TurboPascal.git
+[submodule "Game-LogAlpha-MSDOS-TurboPascal"]
+	path = Game-LogAlpha-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-LogAlpha-MSDOS-TurboPascal.git
