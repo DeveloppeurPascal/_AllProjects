@@ -490,3 +490,6 @@
 [submodule "Game-LogAlpha-MSDOS-TurboPascal"]
 	path = Game-LogAlpha-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Game-LogAlpha-MSDOS-TurboPascal.git
+[submodule "Pascal-Files-Linker-MSDOS-TurboPascal"]
+	path = Pascal-Files-Linker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Pascal-Files-Linker-MSDOS-TurboPascal.git
