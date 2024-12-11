@@ -496,3 +496,6 @@
 [submodule "CD-Player-MSDOS-TurboPascal"]
 	path = CD-Player-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/CD-Player-MSDOS-TurboPascal.git
+[submodule "Game-Laby-MSDOS-TurboPascal"]
+	path = Game-Laby-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-Laby-MSDOS-TurboPascal.git
