@@ -499,3 +499,6 @@
 [submodule "Game-Laby-MSDOS-TurboPascal"]
 	path = Game-Laby-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Game-Laby-MSDOS-TurboPascal.git
+[submodule "Batch-Users-Access-MSDOS-TurboPascal"]
+	path = Batch-Users-Access-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Batch-Users-Access-MSDOS-TurboPascal.git
