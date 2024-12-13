@@ -502,3 +502,6 @@
 [submodule "Batch-Users-Access-MSDOS-TurboPascal"]
 	path = Batch-Users-Access-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Batch-Users-Access-MSDOS-TurboPascal.git
+[submodule "UPR-Files-Maker-MSDOS-TurboPascal"]
+	path = UPR-Files-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/UPR-Files-Maker-MSDOS-TurboPascal.git
