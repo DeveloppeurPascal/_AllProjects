@@ -508,3 +508,6 @@
 [submodule "OSBanque-MSDOS-TurboPascal"]
 	path = OSBanque-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/OSBanque-MSDOS-TurboPascal.git
+[submodule "Cobol-Lines-Numerator-MSDOS-TurboPascal"]
+	path = Cobol-Lines-Numerator-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Cobol-Lines-Numerator-MSDOS-TurboPascal.git
