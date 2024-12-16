@@ -511,3 +511,6 @@
 [submodule "Cobol-Lines-Numerator-MSDOS-TurboPascal"]
 	path = Cobol-Lines-Numerator-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Cobol-Lines-Numerator-MSDOS-TurboPascal.git
+[submodule "Images-Slider-MSDOS-TurboPascal"]
+	path = Images-Slider-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Images-Slider-MSDOS-TurboPascal.git
