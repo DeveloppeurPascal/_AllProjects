@@ -514,3 +514,6 @@
 [submodule "Images-Slider-MSDOS-TurboPascal"]
 	path = Images-Slider-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Images-Slider-MSDOS-TurboPascal.git
+[submodule "Icon-Maker-MSDOS-TurboPascal"]
+	path = Icon-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Icon-Maker-MSDOS-TurboPascal.git
