@@ -520,3 +520,6 @@
 [submodule "Sprite-Maker-MSDOS-TurboPascal"]
 	path = Sprite-Maker-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Sprite-Maker-MSDOS-TurboPascal.git
+[submodule "Duck-Animation-Sidaction2021"]
+	path = Duck-Animation-Sidaction2021
+	url = https://github.com/DeveloppeurPascal/Duck-Animation-Sidaction2021.git
