@@ -517,3 +517,6 @@
 [submodule "Icon-Maker-MSDOS-TurboPascal"]
 	path = Icon-Maker-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Icon-Maker-MSDOS-TurboPascal.git
+[submodule "Sprite-Maker-MSDOS-TurboPascal"]
+	path = Sprite-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Sprite-Maker-MSDOS-TurboPascal.git
