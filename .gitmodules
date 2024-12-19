@@ -523,3 +523,6 @@
 [submodule "Duck-Animation-Sidaction2021"]
 	path = Duck-Animation-Sidaction2021
 	url = https://github.com/DeveloppeurPascal/Duck-Animation-Sidaction2021.git
+[submodule "Game-Isola-MSDOS-TurboPascal"]
+	path = Game-Isola-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-Isola-MSDOS-TurboPascal.git
