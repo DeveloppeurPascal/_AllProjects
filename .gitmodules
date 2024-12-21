@@ -529,3 +529,6 @@
 [submodule "Text-Reader-MSDOS-TurboPascal"]
 	path = Text-Reader-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Text-Reader-MSDOS-TurboPascal.git
+[submodule "Code-Formaters-MSDOS-TurboPascal"]
+	path = Code-Formaters-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Code-Formaters-MSDOS-TurboPascal.git
