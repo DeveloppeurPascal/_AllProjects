@@ -526,3 +526,6 @@
 [submodule "Game-Isola-MSDOS-TurboPascal"]
 	path = Game-Isola-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Game-Isola-MSDOS-TurboPascal.git
+[submodule "Text-Reader-MSDOS-TurboPascal"]
+	path = Text-Reader-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Text-Reader-MSDOS-TurboPascal.git
