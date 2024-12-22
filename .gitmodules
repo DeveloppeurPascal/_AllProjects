@@ -532,3 +532,6 @@
 [submodule "Code-Formaters-MSDOS-TurboPascal"]
 	path = Code-Formaters-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Code-Formaters-MSDOS-TurboPascal.git
+[submodule "Batch-Menu-Maker-MSDOS-TurboPascal"]
+	path = Batch-Menu-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Batch-Menu-Maker-MSDOS-TurboPascal.git
