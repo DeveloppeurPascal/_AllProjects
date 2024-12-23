@@ -535,3 +535,6 @@
 [submodule "Batch-Menu-Maker-MSDOS-TurboPascal"]
 	path = Batch-Menu-Maker-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Batch-Menu-Maker-MSDOS-TurboPascal.git
+[submodule "Show-Files-Compilation-MSDOS-TurboPascal"]
+	path = Show-Files-Compilation-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Show-Files-Compilation-MSDOS-TurboPascal.git
