@@ -538,3 +538,6 @@
 [submodule "Show-Files-Compilation-MSDOS-TurboPascal"]
 	path = Show-Files-Compilation-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Show-Files-Compilation-MSDOS-TurboPascal.git
+[submodule "Color-PAL-Maker-MSDOS-TurboPascal"]
+	path = Color-PAL-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Color-PAL-Maker-MSDOS-TurboPascal.git
