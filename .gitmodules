@@ -541,3 +541,6 @@
 [submodule "Color-PAL-Maker-MSDOS-TurboPascal"]
 	path = Color-PAL-Maker-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Color-PAL-Maker-MSDOS-TurboPascal.git
+[submodule "Font-Maker-MSDOS-TurboPascal"]
+	path = Font-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Font-Maker-MSDOS-TurboPascal.git
