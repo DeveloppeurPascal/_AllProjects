@@ -544,3 +544,6 @@
 [submodule "Font-Maker-MSDOS-TurboPascal"]
 	path = Font-Maker-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Font-Maker-MSDOS-TurboPascal.git
+[submodule "Game-JDVELH-MSDOS-TurboPascal"]
+	path = Game-JDVELH-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Game-JDVELH-MSDOS-TurboPascal.git
