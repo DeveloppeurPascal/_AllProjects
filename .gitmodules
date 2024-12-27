@@ -547,3 +547,6 @@
 [submodule "Game-JDVELH-MSDOS-TurboPascal"]
 	path = Game-JDVELH-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Game-JDVELH-MSDOS-TurboPascal.git
+[submodule "HyperText-Maker-MSDOS-TurboPascal"]
+	path = HyperText-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/HyperText-Maker-MSDOS-TurboPascal.git
