@@ -550,3 +550,6 @@
 [submodule "HyperText-Maker-MSDOS-TurboPascal"]
 	path = HyperText-Maker-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/HyperText-Maker-MSDOS-TurboPascal.git
+[submodule "IDF-DB-Manager-MSDOS-TurboPascal"]
+	path = IDF-DB-Manager-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/IDF-DB-Manager-MSDOS-TurboPascal.git
