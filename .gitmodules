@@ -553,3 +553,6 @@
 [submodule "IDF-DB-Manager-MSDOS-TurboPascal"]
 	path = IDF-DB-Manager-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/IDF-DB-Manager-MSDOS-TurboPascal.git
+[submodule "Listeur-MSDOS-TurboPascal"]
+	path = Listeur-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Listeur-MSDOS-TurboPascal.git
