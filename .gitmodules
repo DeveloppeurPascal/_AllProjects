@@ -556,3 +556,6 @@
 [submodule "Listeur-MSDOS-TurboPascal"]
 	path = Listeur-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Listeur-MSDOS-TurboPascal.git
+[submodule "Cobol-Editor-MSDOS-TurboPascal"]
+	path = Cobol-Editor-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Cobol-Editor-MSDOS-TurboPascal.git
