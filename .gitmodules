@@ -565,3 +565,6 @@
 [submodule "I18N-Messages-Files-Maker-MSDOS-TurboPascal"]
 	path = I18N-Messages-Files-Maker-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/I18N-Messages-Files-Maker-MSDOS-TurboPascal.git
+[submodule "Catalogs-MSDOS-TurboPascal"]
+	path = Catalogs-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Catalogs-MSDOS-TurboPascal.git
