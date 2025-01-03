@@ -562,3 +562,6 @@
 [submodule "Cobol-Files-Linker-MSDOS-TurboPascal"]
 	path = Cobol-Files-Linker-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Cobol-Files-Linker-MSDOS-TurboPascal.git
+[submodule "I18N-Messages-Files-Maker-MSDOS-TurboPascal"]
+	path = I18N-Messages-Files-Maker-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/I18N-Messages-Files-Maker-MSDOS-TurboPascal.git
