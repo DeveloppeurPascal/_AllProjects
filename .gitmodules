@@ -571,3 +571,6 @@
 [submodule "FD-Util-MSDOS-TurboPascal"]
 	path = FD-Util-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/FD-Util-MSDOS-TurboPascal.git
+[submodule "Cree-Doc-MSDOS-TurboPascal"]
+	path = Cree-Doc-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/Cree-Doc-MSDOS-TurboPascal.git
