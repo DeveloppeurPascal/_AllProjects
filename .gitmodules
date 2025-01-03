@@ -568,3 +568,6 @@
 [submodule "Catalogs-MSDOS-TurboPascal"]
 	path = Catalogs-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Catalogs-MSDOS-TurboPascal.git
+[submodule "FD-Util-MSDOS-TurboPascal"]
+	path = FD-Util-MSDOS-TurboPascal
+	url = https://github.com/DeveloppeurPascal/FD-Util-MSDOS-TurboPascal.git
