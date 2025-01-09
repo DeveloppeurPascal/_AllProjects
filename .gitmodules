@@ -574,3 +574,21 @@
 [submodule "Cree-Doc-MSDOS-TurboPascal"]
 	path = Cree-Doc-MSDOS-TurboPascal
 	url = https://github.com/DeveloppeurPascal/Cree-Doc-MSDOS-TurboPascal.git
+[submodule "Gumroad-API-Webhook-Endpoint"]
+	path = Gumroad-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/Gumroad-API-Webhook-Endpoint.git
+[submodule "Twitch-API-Webhook-Endpoint"]
+	path = Twitch-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/Twitch-API-Webhook-Endpoint.git
+[submodule "GitHubSponsors-API-Webhook-Endpoint"]
+	path = GitHubSponsors-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/GitHubSponsors-API-Webhook-Endpoint.git
+[submodule "Patreon-API-Webhook-Endpoint"]
+	path = Patreon-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/Patreon-API-Webhook-Endpoint.git
+[submodule "BuyMeACoffee-API-Webhook-Endpoint"]
+	path = BuyMeACoffee-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/BuyMeACoffee-API-Webhook-Endpoint.git
+[submodule "LemonSqueezy-API-Webhook-Endpoint"]
+	path = LemonSqueezy-API-Webhook-Endpoint
+	url = https://github.com/DeveloppeurPascal/LemonSqueezy-API-Webhook-Endpoint.git
