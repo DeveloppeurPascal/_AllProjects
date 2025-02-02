@@ -598,3 +598,6 @@
 [submodule "Bubbleoid-GGJ2025"]
 	path = Bubbleoid-GGJ2025
 	url = https://github.com/DeveloppeurPascal/Bubbleoid-GGJ2025.git
+[submodule "SoapBubbles"]
+	path = SoapBubbles
+	url = https://github.com/DeveloppeurPascal/SoapBubbles.git
