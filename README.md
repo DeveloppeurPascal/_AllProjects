@@ -41,9 +41,9 @@ To simplify GitHub account backups or local installation of projects, I offer se
 
 ### Delphi
 
-* [video games](https://github.com/DeveloppeurPascal/Delphi-Games-Pack)
-* [softwares and mobile applications](https://github.com/DeveloppeurPascal/Delphi-ProgramsAndTools-Pack)
-* [libraries and components](https://github.com/DeveloppeurPascal/Delphi-ComponentsAndLibraries-Pack)
+* [open sourced video games](https://github.com/DeveloppeurPascal/Delphi-Games-Pack) [download and play to my games](https://gamolf.fr) [buy an end user license](https://lic.gamolf.fr/stores.php?lng=en)
+* [open sourced softwares and mobile applications](https://github.com/DeveloppeurPascal/Delphi-ProgramsAndTools-Pack) [download and use my softwares](https://lic.olfsoftware.fr/products.php?lng=en) [buy an end user license](https://lic.olfsoftware.fr/stores.php?lng=en)
+* [libraries and components](https://github.com/DeveloppeurPascal/Delphi-ComponentsAndLibraries-Pack) [buy a developer license](https://store.developpeur-pascal.fr/en/)
 
 To prepare my Delphi development environment on a new Windows computer or VM, I made [an installation script](https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi). You can use it as is, or take inspiration from it if you're using my libraries or components.
 

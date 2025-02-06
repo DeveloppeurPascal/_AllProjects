@@ -41,9 +41,9 @@ Afin de me simplifier les sauvegardes du compte GitHub ou l'installation locale 
 
 ### Delphi
 
-* [jeux vidéos](https://github.com/DeveloppeurPascal/Delphi-Games-Pack)
-* [logiciels et applications mobiles](https://github.com/DeveloppeurPascal/Delphi-ProgramsAndTools-Pack)
-* [librairies et composants](https://github.com/DeveloppeurPascal/Delphi-ComponentsAndLibraries-Pack)
+* [jeux vidéos open source](https://github.com/DeveloppeurPascal/Delphi-Games-Pack) [télécharger et jouer à mes jeux vidéo](https://gamolf.fr) [acheter une licence d'utilisateur final](https://lic.gamolf.fr/stores.php?lng=fr)
+* [logiciels et applications mobiles open source](https://github.com/DeveloppeurPascal/Delphi-ProgramsAndTools-Pack) [télécharger et utiliser mes logiciels](https://lic.olfsoftware.fr/products.php?lng=fr) [acheter une licence d'utilisateur final](https://lic.olfsoftware.fr/stores.php?lng=fr)
+* [librairies and composants](https://github.com/DeveloppeurPascal/Delphi-ComponentsAndLibraries-Pack) [acheter une licence de développeur](https://store.developpeur-pascal.fr/)
 
 Pour préparer mon environnement de développement en Delphi sur un nouvel ordinateur ou une nouvelle VM sous Windows je me suis fait [un script d'installation](https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi). Vous pouvez l'utiliser tel quel ou vous en inspirer si vous utilisez mes librairies ou composants.
 
