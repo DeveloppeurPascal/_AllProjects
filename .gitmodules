@@ -619,3 +619,6 @@
 [submodule "Sporgloo-KenneyJam2023"]
 	path = Sporgloo-KenneyJam2023
 	url = https://github.com/DeveloppeurPascal/Sporgloo-KenneyJam2023.git
+[submodule "Colarvest-LudumDare52"]
+	path = Colarvest-LudumDare52
+	url = https://github.com/DeveloppeurPascal/Colarvest-LudumDare52.git
