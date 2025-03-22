@@ -613,3 +613,6 @@
 [submodule "Blotatris-KenneyJam2021"]
 	path = Blotatris-KenneyJam2021
 	url = https://github.com/DeveloppeurPascal/Blotatris-KenneyJam2021.git
+[submodule "DAD48-LudumDare48"]
+	path = DAD48-LudumDare48
+	url = https://github.com/DeveloppeurPascal/DAD48-LudumDare48.git
