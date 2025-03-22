@@ -223,9 +223,6 @@
 [submodule "Delphi-samples"]
 	path = Delphi-samples
 	url = https://github.com/DeveloppeurPascal/Delphi-samples.git
-[submodule "LDJAM52-Harvest"]
-	path = LDJAM52-Harvest
-	url = https://github.com/DeveloppeurPascal/LDJAM52-Harvest.git
 [submodule "PicMobGenerator"]
 	path = PicMobGenerator
 	url = https://github.com/DeveloppeurPascal/PicMobGenerator.git
