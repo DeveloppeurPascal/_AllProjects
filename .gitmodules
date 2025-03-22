@@ -616,3 +616,6 @@
 [submodule "DAD48-LudumDare48"]
 	path = DAD48-LudumDare48
 	url = https://github.com/DeveloppeurPascal/DAD48-LudumDare48.git
+[submodule "Sporgloo-KenneyJam2023"]
+	path = Sporgloo-KenneyJam2023
+	url = https://github.com/DeveloppeurPascal/Sporgloo-KenneyJam2023.git
