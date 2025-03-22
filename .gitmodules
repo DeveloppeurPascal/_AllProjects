@@ -610,3 +610,6 @@
 [submodule "Laby10s-LudumDare51"]
 	path = Laby10s-LudumDare51
 	url = https://github.com/DeveloppeurPascal/Laby10s-LudumDare51.git
+[submodule "Blotatris-KenneyJam2021"]
+	path = Blotatris-KenneyJam2021
+	url = https://github.com/DeveloppeurPascal/Blotatris-KenneyJam2021.git
