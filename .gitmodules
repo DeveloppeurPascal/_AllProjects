@@ -601,9 +601,6 @@
 [submodule "SoapBubbles"]
 	path = SoapBubbles
 	url = https://github.com/DeveloppeurPascal/SoapBubbles.git
-[submodule "DAD48"]
-	path = DAD48
-	url = https://github.com/DeveloppeurPascal/DAD48.git
 [submodule "Link-Website-Generator"]
 	path = Link-Website-Generator
 	url = https://github.com/DeveloppeurPascal/Link-Website-Generator.git
