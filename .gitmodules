@@ -610,3 +610,21 @@
 [submodule "Colarvest-LudumDare52"]
 	path = Colarvest-LudumDare52
 	url = https://github.com/DeveloppeurPascal/Colarvest-LudumDare52.git
+[submodule "Colblor"]
+	path = Colblor
+	url = https://github.com/DeveloppeurPascal/Colblor.git
+[submodule "Colblor-Viewer"]
+	path = Colblor-Viewer
+	url = https://github.com/DeveloppeurPascal/Colblor-Viewer.git
+[submodule "Colblor-Server-PHP"]
+	path = Colblor-Server-PHP
+	url = https://github.com/DeveloppeurPascal/Colblor-Server-PHP.git
+[submodule "Colblor-Translator"]
+	path = Colblor-Translator
+	url = https://github.com/DeveloppeurPascal/Colblor-Translator.git
+[submodule "Colblor-Server"]
+	path = Colblor-Server
+	url = https://github.com/DeveloppeurPascal/Colblor-Server.git
+[submodule "Colblor-Server-WebBroker"]
+	path = Colblor-Server-WebBroker
+	url = https://github.com/DeveloppeurPascal/Colblor-Server-WebBroker.git
