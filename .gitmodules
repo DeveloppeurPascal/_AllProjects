@@ -628,3 +628,6 @@
 [submodule "Pompach-LudumDare39"]
 	path = Pompach-LudumDare39
 	url = https://github.com/DeveloppeurPascal/Pompach-LudumDare39.git
+[submodule "Zomcave-LudumDare57"]
+	path = Zomcave-LudumDare57
+	url = https://github.com/DeveloppeurPascal/Zomcave-LudumDare57.git
