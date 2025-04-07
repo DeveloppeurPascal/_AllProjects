@@ -631,3 +631,6 @@
 [submodule "Zomcave-LudumDare57"]
 	path = Zomcave-LudumDare57
 	url = https://github.com/DeveloppeurPascal/Zomcave-LudumDare57.git
+[submodule "FMX-Styles-Utils"]
+	path = FMX-Styles-Utils
+	url = https://github.com/DeveloppeurPascal/FMX-Styles-Utils.git
