@@ -634,3 +634,6 @@
 [submodule "FMX-Styles-Utils"]
 	path = FMX-Styles-Utils
 	url = https://github.com/DeveloppeurPascal/FMX-Styles-Utils.git
+[submodule "Ok-Ducky"]
+	path = Ok-Ducky
+	url = https://github.com/DeveloppeurPascal/Ok-Ducky.git
