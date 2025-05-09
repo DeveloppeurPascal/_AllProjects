@@ -646,3 +646,6 @@
 [submodule "Eggpaq"]
 	path = Eggpaq
 	url = https://github.com/DeveloppeurPascal/Eggpaq.git
+[submodule "KDK-Training-2009"]
+	path = KDK-Training-2009
+	url = https://github.com/DeveloppeurPascal/KDK-Training-2009.git
