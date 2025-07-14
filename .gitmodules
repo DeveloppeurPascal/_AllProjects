@@ -652,3 +652,6 @@
 [submodule "Simple-Multilingual-Site"]
 	path = Simple-Multilingual-Site
 	url = https://github.com/DeveloppeurPascal/Simple-Multilingual-Site.git
+[submodule "SVG-cards"]
+	path = SVG-cards
+	url = https://github.com/DeveloppeurPascal/SVG-cards.git
