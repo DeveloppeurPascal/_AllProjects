@@ -655,3 +655,12 @@
 [submodule "SVG-cards"]
 	path = SVG-cards
 	url = https://github.com/DeveloppeurPascal/SVG-cards.git
+[submodule "GroupProjUpdater"]
+	path = GroupProjUpdater
+	url = https://github.com/DeveloppeurPascal/GroupProjUpdater.git
+[submodule "LoopingAnimationDemo"]
+	path = LoopingAnimationDemo
+	url = https://github.com/DeveloppeurPascal/LoopingAnimationDemo.git
+[submodule "Link-Website-Server"]
+	path = Link-Website-Server
+	url = https://github.com/DeveloppeurPascal/Link-Website-Server
