@@ -658,3 +658,6 @@
 [submodule "librairies-Python"]
 	path = librairies-Python
 	url = https://codeberg.org/PatrickPremartin/librairies-Python.git
+[submodule "librairies-JavaScript"]
+	path = librairies-JavaScript
+	url = https://codeberg.org/PatrickPremartin/librairies-JavaScript.git
