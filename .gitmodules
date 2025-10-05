@@ -661,3 +661,6 @@
 [submodule "librairies-JavaScript"]
 	path = librairies-JavaScript
 	url = https://codeberg.org/PatrickPremartin/librairies-JavaScript.git
+[submodule "librairies-PHP"]
+	path = librairies-PHP
+	url = https://codeberg.org/PatrickPremartin/librairies-PHP.git
