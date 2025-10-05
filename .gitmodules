@@ -655,3 +655,6 @@
 [submodule "librairies-C"]
 	path = librairies-C
 	url = https://codeberg.org/PatrickPremartin/librairies-C.git
+[submodule "librairies-Python"]
+	path = librairies-Python
+	url = https://codeberg.org/PatrickPremartin/librairies-Python.git
