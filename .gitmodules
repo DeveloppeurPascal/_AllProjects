@@ -664,3 +664,6 @@
 [submodule "librairies-PHP"]
 	path = librairies-PHP
 	url = https://codeberg.org/PatrickPremartin/librairies-PHP.git
+[submodule "QuartexPascal-Samples"]
+	path = QuartexPascal-Samples
+	url = https://codeberg.org/PatrickPremartin/QuartexPascal-Samples.git
