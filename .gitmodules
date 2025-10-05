@@ -352,27 +352,12 @@
 [submodule "XOR-Keys-Generator"]
 	path = XOR-Keys-Generator
 	url = https://github.com/DeveloppeurPascal/XOR-Keys-Generator.git
-[submodule "librairies-JavaScript"]
-	path = librairies-JavaScript
-	url = https://github.com/DeveloppeurPascal/librairies-JavaScript.git
-[submodule "librairies-PHP"]
-	path = librairies-PHP
-	url = https://github.com/DeveloppeurPascal/librairies-PHP.git
 [submodule "Swap-Keys-Generator"]
 	path = Swap-Keys-Generator
 	url = https://github.com/DeveloppeurPascal/Swap-Keys-Generator.git
 [submodule "IDB-keys-Generator"]
 	path = IDB-keys-Generator
 	url = https://github.com/DeveloppeurPascal/IDB-keys-Generator.git
-[submodule "librairies-Python"]
-	path = librairies-Python
-	url = https://github.com/DeveloppeurPascal/librairies-Python.git
-[submodule "librairies-C"]
-	path = librairies-C
-	url = https://github.com/DeveloppeurPascal/librairies-C.git
-[submodule "librairies-Swift"]
-	path = librairies-Swift
-	url = https://github.com/DeveloppeurPascal/librairies-Swift.git
 [submodule "Shift-Keys-Generator"]
 	path = Shift-Keys-Generator
 	url = https://github.com/DeveloppeurPascal/Shift-Keys-Generator.git
