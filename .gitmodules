@@ -667,3 +667,6 @@
 [submodule "Block-Page-Site-Server"]
 	path = Block-Page-Site-Server
 	url = https://codeberg.org/PatrickPremartin/Block-Page-Site-Server.git
+[submodule "AllProjectsSubmodulesToBlockPageSiteServerDB"]
+	path = AllProjectsSubmodulesToBlockPageSiteServerDB
+	url = https://codeberg.org/PatrickPremartin/AllProjectsSubmodulesToBlockPageSiteServerDB.git
