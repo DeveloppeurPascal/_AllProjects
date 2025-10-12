@@ -646,9 +646,6 @@
 [submodule "LoopingAnimationDemo"]
 	path = LoopingAnimationDemo
 	url = https://github.com/DeveloppeurPascal/LoopingAnimationDemo.git
-[submodule "Link-Website-Server"]
-	path = Link-Website-Server
-	url = https://github.com/DeveloppeurPascal/Link-Website-Server
 [submodule "librairies-Swift"]
 	path = librairies-Swift
 	url = https://codeberg.org/PatrickPremartin/librairies-Swift.git
