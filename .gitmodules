@@ -676,3 +676,6 @@
 [submodule "Web-Projects-Template-On-GitHub"]
 	path = Web-Projects-Template-On-GitHub
 	url = https://github.com/DeveloppeurPascal/Web-Projects-Template.git
+[submodule "Delphi-Projects-Template-On-GitHub"]
+	path = Delphi-Projects-Template-On-GitHub
+	url = https://github.com/DeveloppeurPascal/Delphi-Projects-Template.git
