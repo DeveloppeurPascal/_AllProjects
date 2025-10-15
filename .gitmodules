@@ -667,3 +667,6 @@
 [submodule "AllProjectsSubmodulesToBlockPageSiteServerDB"]
 	path = AllProjectsSubmodulesToBlockPageSiteServerDB
 	url = https://codeberg.org/PatrickPremartin/AllProjectsSubmodulesToBlockPageSiteServerDB.git
+[submodule "Delphi-Projects-Template-On-Codeberg"]
+	path = Delphi-Projects-Template-On-Codeberg
+	url = https://codeberg.org/PatrickPremartin/Delphi-Projects-Template.git
