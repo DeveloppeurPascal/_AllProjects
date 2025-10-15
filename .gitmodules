@@ -670,3 +670,6 @@
 [submodule "Delphi-Projects-Template-On-Codeberg"]
 	path = Delphi-Projects-Template-On-Codeberg
 	url = https://codeberg.org/PatrickPremartin/Delphi-Projects-Template.git
+[submodule "Web-Projects-Template-On-Codeberg"]
+	path = Web-Projects-Template-On-Codeberg
+	url = https://codeberg.org/PatrickPremartin/Web-Projects-Template.git
