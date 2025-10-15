@@ -565,9 +565,6 @@
 [submodule "LemonSqueezy-API-Webhook-Endpoint"]
 	path = LemonSqueezy-API-Webhook-Endpoint
 	url = https://github.com/DeveloppeurPascal/LemonSqueezy-API-Webhook-Endpoint.git
-[submodule "Web-Projects-Template"]
-	path = Web-Projects-Template
-	url = https://github.com/DeveloppeurPascal/Web-Projects-Template.git
 [submodule "Bubbleoid-GGJ2025"]
 	path = Bubbleoid-GGJ2025
 	url = https://github.com/DeveloppeurPascal/Bubbleoid-GGJ2025.git
