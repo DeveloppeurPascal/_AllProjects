@@ -673,3 +673,6 @@
 [submodule "Delphi-Projects-Template-On-GitHub"]
 	path = Delphi-Projects-Template-On-GitHub
 	url = https://github.com/DeveloppeurPascal/Delphi-Projects-Template.git
+[submodule "Delphi-FMX-Game-Snippets"]
+	path = Delphi-FMX-Game-Snippets
+	url = https://codeberg.org/PatrickPremartin/Delphi-FMX-Game-Snippets.git
