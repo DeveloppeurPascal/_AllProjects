@@ -10,9 +10,6 @@
 [submodule "LearnToCodeSummerCamp2021"]
 	path = LearnToCodeSummerCamp2021
 	url = https://github.com/DeveloppeurPascal/LearnToCodeSummerCamp2021.git
-[submodule "DelphiFMXGameSnippets"]
-	path = DelphiFMXGameSnippets
-	url = https://github.com/DeveloppeurPascal/DelphiFMXGameSnippets.git
 [submodule "Faire-une-application-web-avec-Delphi"]
 	path = Faire-une-application-web-avec-Delphi
 	url = https://github.com/DeveloppeurPascal/Faire-une-application-web-avec-Delphi.git
