@@ -676,3 +676,6 @@
 [submodule "Delphi-FMX-Game-Snippets"]
 	path = Delphi-FMX-Game-Snippets
 	url = https://codeberg.org/PatrickPremartin/Delphi-FMX-Game-Snippets.git
+[submodule "Delphi-samples"]
+	path = Delphi-samples
+	url = https://codeberg.org/PatrickPremartin/Delphi-samples.git
