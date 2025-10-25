@@ -217,9 +217,6 @@
 [submodule "LogNPass-app"]
 	path = LogNPass-app
 	url = https://github.com/DeveloppeurPascal/LogNPass-app.git
-[submodule "Delphi-samples"]
-	path = Delphi-samples
-	url = https://github.com/DeveloppeurPascal/Delphi-samples.git
 [submodule "PicMobGenerator"]
 	path = PicMobGenerator
 	url = https://github.com/DeveloppeurPascal/PicMobGenerator.git
