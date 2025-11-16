@@ -679,3 +679,6 @@
 [submodule "Koala-Match-3"]
 	path = Koala-Match-3
 	url = https://github.com/DeveloppeurPascal/Koala-Match-3.git
+[submodule "ChristmasGame-CodeRage2018"]
+	path = ChristmasGame-CodeRage2018
+	url = https://codeberg.org/PatrickPremartin/ChristmasGame-CodeRage2018.git
