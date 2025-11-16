@@ -91,9 +91,6 @@
 [submodule "POCNotesDeFrais"]
 	path = POCNotesDeFrais
 	url = https://github.com/DeveloppeurPascal/POCNotesDeFrais.git
-[submodule "CodeRage2018-ChristmasGame"]
-	path = CodeRage2018-ChristmasGame
-	url = https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame.git
 [submodule "CCTRB-PHP-API-Server"]
 	path = CCTRB-PHP-API-Server
 	url = https://github.com/DeveloppeurPascal/CCTRB-PHP-API-Server.git
