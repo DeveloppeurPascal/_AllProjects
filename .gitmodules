@@ -682,3 +682,6 @@
 [submodule "ChristmasGame-CodeRage2018"]
 	path = ChristmasGame-CodeRage2018
 	url = https://codeberg.org/PatrickPremartin/ChristmasGame-CodeRage2018.git
+[submodule "ChristmasGameEvolution-CodeRage2025"]
+	path = ChristmasGameEvolution-CodeRage2025
+	url = https://codeberg.org/PatrickPremartin/ChristmasGameEvolution-CodeRage2025.git
