@@ -616,3 +616,72 @@
 [submodule "ChristmasGameEvolution-CodeRage2025"]
 	path = ChristmasGameEvolution-CodeRage2025
 	url = https://codeberg.org/PatrickPremartin/ChristmasGameEvolution-CodeRage2025.git
+[submodule "Socket-Messaging-Code-Generator"]
+	path = Socket-Messaging-Code-Generator
+	url = https://codeberg.org/PatrickPremartin/Socket-Messaging-Code-Generator.git
+[submodule "SVGFolder2DelphiUnit"]
+	path = SVGFolder2DelphiUnit
+	url = https://codeberg.org/PatrickPremartin/SVGFolder2DelphiUnit.git
+[submodule "PicMobGenerator"]
+	path = PicMobGenerator
+	url = https://codeberg.org/PatrickPremartin/PicMobGenerator.git
+[submodule "GroupProjUpdater"]
+	path = GroupProjUpdater
+	url = https://codeberg.org/PatrickPremartin/GroupProjUpdater.git
+[submodule "Folder2FMXImageList"]
+	path = Folder2FMXImageList
+	url = https://codeberg.org/PatrickPremartin/Folder2FMXImageList.git
+[submodule "CopyrightPascalProjects"]
+	path = CopyrightPascalProjects
+	url = https://codeberg.org/PatrickPremartin/CopyrightPascalProjects.git
+[submodule "App-Stores-Screen-Captures-Generator"]
+	path = App-Stores-Screen-Captures-Generator
+	url = https://codeberg.org/PatrickPremartin/App-Stores-Screen-Captures-Generator.git
+[submodule "DProj2WinSetup"]
+	path = DProj2WinSetup
+	url = https://codeberg.org/PatrickPremartin/DProj2WinSetup.git
+[submodule "ExeBulkSigning"]
+	path = ExeBulkSigning
+	url = https://codeberg.org/PatrickPremartin/ExeBulkSigning.git
+[submodule "Zicplay"]
+	path = Zicplay
+	url = https://codeberg.org/PatrickPremartin/Zicplay.git
+[submodule "YTVideoSeries"]
+	path = YTVideoSeries
+	url = https://codeberg.org/PatrickPremartin/YTVideoSeries.git
+[submodule "XOR-Keys-Generator"]
+	path = XOR-Keys-Generator
+	url = https://codeberg.org/PatrickPremartin/XOR-Keys-Generator.git
+[submodule "Video-Splitter"]
+	path = Video-Splitter
+	url = https://codeberg.org/PatrickPremartin/Video-Splitter.git
+[submodule "Video-Merger"]
+	path = Video-Merger
+	url = https://codeberg.org/PatrickPremartin/Video-Merger.git
+[submodule "Video-Cutter"]
+	path = Video-Cutter
+	url = https://codeberg.org/PatrickPremartin/Video-Cutter.git
+[submodule "Text2HTML"]
+	path = Text2HTML
+	url = https://codeberg.org/PatrickPremartin/Text2HTML.git
+[submodule "Swap-Keys-Generator"]
+	path = Swap-Keys-Generator
+	url = https://codeberg.org/PatrickPremartin/Swap-Keys-Generator.git
+[submodule "Shift-Keys-Generator"]
+	path = Shift-Keys-Generator
+	url = https://codeberg.org/PatrickPremartin/Shift-Keys-Generator.git
+[submodule "SUTOM_Helper"]
+	path = SUTOM_Helper
+	url = https://codeberg.org/PatrickPremartin/SUTOM_Helper.git
+[submodule "Pic-Resize"]
+	path = Pic-Resize
+	url = https://codeberg.org/PatrickPremartin/Pic-Resize.git
+[submodule "IDB-keys-Generator"]
+	path = IDB-keys-Generator
+	url = https://codeberg.org/PatrickPremartin/IDB-keys-Generator.git
+[submodule "HTML-Writer"]
+	path = HTML-Writer
+	url = https://codeberg.org/PatrickPremartin/HTML-Writer.git
+[submodule "GooglePlayDeveloperBannerGenerator"]
+	path = GooglePlayDeveloperBannerGenerator
+	url = https://codeberg.org/PatrickPremartin/GooglePlayDeveloperBannerGenerator.git
