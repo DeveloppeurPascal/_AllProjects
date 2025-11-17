@@ -130,18 +130,6 @@
 [submodule "programmez-hs7"]
 	path = programmez-hs7
 	url = https://github.com/DeveloppeurPascal/programmez-hs7.git
-[submodule "Text2HTML"]
-	path = Text2HTML
-	url = https://github.com/DeveloppeurPascal/Text2HTML.git
-[submodule "GooglePlayDeveloperBannerGenerator"]
-	path = GooglePlayDeveloperBannerGenerator
-	url = https://github.com/DeveloppeurPascal/GooglePlayDeveloperBannerGenerator.git
-[submodule "ExeBulkSigning"]
-	path = ExeBulkSigning
-	url = https://github.com/DeveloppeurPascal/ExeBulkSigning.git
-[submodule "Folder2FMXImageList"]
-	path = Folder2FMXImageList
-	url = https://github.com/DeveloppeurPascal/Folder2FMXImageList.git
 [submodule "DelphiBooks-WebSite"]
 	path = DelphiBooks-WebSite
 	url = https://github.com/DeveloppeurPascal/DelphiBooks-WebSite.git
@@ -211,9 +199,6 @@
 [submodule "LogNPass-app"]
 	path = LogNPass-app
 	url = https://github.com/DeveloppeurPascal/LogNPass-app.git
-[submodule "PicMobGenerator"]
-	path = PicMobGenerator
-	url = https://github.com/DeveloppeurPascal/PicMobGenerator.git
 [submodule "Automatically-Translate-Your-Programs-with-DeepL-API"]
 	path = Automatically-Translate-Your-Programs-with-DeepL-API
 	url = https://github.com/DeveloppeurPascal/Automatically-Translate-Your-Programs-with-DeepL-API.git
@@ -241,9 +226,6 @@
 [submodule "My-day-in-pictures"]
 	path = My-day-in-pictures
 	url = https://github.com/DeveloppeurPascal/My-day-in-pictures.git
-[submodule "Pic-Resize"]
-	path = Pic-Resize
-	url = https://github.com/DeveloppeurPascal/Pic-Resize.git
 [submodule "Spooch"]
 	path = Spooch
 	url = https://github.com/DeveloppeurPascal/Spooch.git
@@ -253,9 +235,6 @@
 [submodule "Egg-Hunter"]
 	path = Egg-Hunter
 	url = https://github.com/DeveloppeurPascal/Egg-Hunter.git
-[submodule "Zicplay"]
-	path = Zicplay
-	url = https://github.com/DeveloppeurPascal/Zicplay.git
 [submodule "Delphi-Game-Engine"]
 	path = Delphi-Game-Engine
 	url = https://github.com/DeveloppeurPascal/Delphi-Game-Engine.git
@@ -289,9 +268,6 @@
 [submodule "__MyMinimalDependenciesForWorkingWithPHP"]
 	path = __MyMinimalDependenciesForWorkingWithPHP
 	url = https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithPHP.git
-[submodule "Socket-Messaging-Code-Generator"]
-	path = Socket-Messaging-Code-Generator
-	url = https://github.com/DeveloppeurPascal/Socket-Messaging-Code-Generator.git
 [submodule "PHP-UserPassword-Basics"]
 	path = PHP-UserPassword-Basics
 	url = https://github.com/DeveloppeurPascal/PHP-UserPassword-Basics.git
@@ -316,45 +292,18 @@
 [submodule "Pumpkin-Killer"]
 	path = Pumpkin-Killer
 	url = https://github.com/DeveloppeurPascal/Pumpkin-Killer.git
-[submodule "SUTOM_Helper"]
-	path = SUTOM_Helper
-	url = https://github.com/DeveloppeurPascal/SUTOM_Helper.git
-[submodule "YTVideoSeries"]
-	path = YTVideoSeries
-	url = https://github.com/DeveloppeurPascal/YTVideoSeries.git
 [submodule "LemonSqueezy4Delphi"]
 	path = LemonSqueezy4Delphi
 	url = https://github.com/DeveloppeurPascal/LemonSqueezy4Delphi.git
-[submodule "App-Stores-Screen-Captures-Generator"]
-	path = App-Stores-Screen-Captures-Generator
-	url = https://github.com/DeveloppeurPascal/App-Stores-Screen-Captures-Generator.git
 [submodule "ASSCG-Data-Admin"]
 	path = ASSCG-Data-Admin
 	url = https://github.com/DeveloppeurPascal/ASSCG-Data-Admin.git
 [submodule "Fie-Frapic"]
 	path = Fie-Frapic
 	url = https://github.com/DeveloppeurPascal/Fie-Frapic.git
-[submodule "HTMLwriter"]
-	path = HTMLwriter
-	url = https://github.com/DeveloppeurPascal/HTMLwriter.git
 [submodule "Pairpix"]
 	path = Pairpix
 	url = https://github.com/DeveloppeurPascal/Pairpix.git
-[submodule "XOR-Keys-Generator"]
-	path = XOR-Keys-Generator
-	url = https://github.com/DeveloppeurPascal/XOR-Keys-Generator.git
-[submodule "Swap-Keys-Generator"]
-	path = Swap-Keys-Generator
-	url = https://github.com/DeveloppeurPascal/Swap-Keys-Generator.git
-[submodule "IDB-keys-Generator"]
-	path = IDB-keys-Generator
-	url = https://github.com/DeveloppeurPascal/IDB-keys-Generator.git
-[submodule "Shift-Keys-Generator"]
-	path = Shift-Keys-Generator
-	url = https://github.com/DeveloppeurPascal/Shift-Keys-Generator.git
-[submodule "DProj2WinSetup"]
-	path = DProj2WinSetup
-	url = https://github.com/DeveloppeurPascal/DProj2WinSetup.git
 [submodule "LeTempsDUneTomate"]
 	path = LeTempsDUneTomate
 	url = https://github.com/DeveloppeurPascal/LeTempsDUneTomate.git
@@ -379,18 +328,9 @@
 [submodule "FSoDB4PHP"]
 	path = FSoDB4PHP
 	url = https://github.com/DeveloppeurPascal/FSoDB4PHP.git
-[submodule "Video-Splitter"]
-	path = Video-Splitter
-	url = https://github.com/DeveloppeurPascal/Video-Splitter.git
-[submodule "Video-Cutter"]
-	path = Video-Cutter
-	url = https://github.com/DeveloppeurPascal/Video-Cutter.git
 [submodule "KoFi-API-Webhook-Endpoint"]
 	path = KoFi-API-Webhook-Endpoint
 	url = https://github.com/DeveloppeurPascal/KoFi-API-Webhook-Endpoint.git
-[submodule "Video-Merger"]
-	path = Video-Merger
-	url = https://github.com/DeveloppeurPascal/Video-Merger.git
 [submodule "Spritesheet-Splitter"]
 	path = Spritesheet-Splitter
 	url = https://github.com/DeveloppeurPascal/Spritesheet-Splitter.git
@@ -400,12 +340,6 @@
 [submodule "Ploumtris-KenneyJam2024"]
 	path = Ploumtris-KenneyJam2024
 	url = https://github.com/DeveloppeurPascal/Ploumtris-KenneyJam2024.git
-[submodule "SVGFolder2DelphiUnit"]
-	path = SVGFolder2DelphiUnit
-	url = https://github.com/DeveloppeurPascal/SVGFolder2DelphiUnit.git
-[submodule "CopyrightPascalProjects"]
-	path = CopyrightPascalProjects
-	url = https://github.com/DeveloppeurPascal/CopyrightPascalProjects.git
 [submodule "DevDaysOfSummer2024-UseSVGImagesInDelphi"]
 	path = DevDaysOfSummer2024-UseSVGImagesInDelphi
 	url = https://github.com/DeveloppeurPascal/DevDaysOfSummer2024-UseSVGImagesInDelphi.git
@@ -628,9 +562,6 @@
 [submodule "SVG-cards"]
 	path = SVG-cards
 	url = https://github.com/DeveloppeurPascal/SVG-cards.git
-[submodule "GroupProjUpdater"]
-	path = GroupProjUpdater
-	url = https://github.com/DeveloppeurPascal/GroupProjUpdater.git
 [submodule "LoopingAnimationDemo"]
 	path = LoopingAnimationDemo
 	url = https://github.com/DeveloppeurPascal/LoopingAnimationDemo.git
