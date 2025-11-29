@@ -685,3 +685,6 @@
 [submodule "GooglePlayDeveloperBannerGenerator"]
 	path = GooglePlayDeveloperBannerGenerator
 	url = https://codeberg.org/PatrickPremartin/GooglePlayDeveloperBannerGenerator.git
+[submodule "Game-Template-For-Delphi-FireMonkey"]
+	path = Game-Template-For-Delphi-FireMonkey
+	url = https://codeberg.org/DeveloppeurPascal/Game-Template-For-Delphi-FireMonkey.git
