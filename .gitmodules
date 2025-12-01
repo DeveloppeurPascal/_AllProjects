@@ -688,3 +688,6 @@
 [submodule "Game-Template-For-Delphi-FireMonkey"]
 	path = Game-Template-For-Delphi-FireMonkey
 	url = https://codeberg.org/DeveloppeurPascal/Game-Template-For-Delphi-FireMonkey.git
+[submodule "Tools-Template-for-Delphi-FireMonkey"]
+	path = Tools-Template-for-Delphi-FireMonkey
+	url = https://codeberg.org/DeveloppeurPascal/Tools-Template-for-Delphi-FireMonkey.git
