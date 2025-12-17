@@ -582,19 +582,19 @@
 	url = https://codeberg.org/PatrickPremartin/librairies-PHP.git
 [submodule "QuartexPascal-Samples"]
 	path = QuartexPascal-Samples
-	url = https://codeberg.org/PatrickPremartin/QuartexPascal-Samples.git
+	url = https://codeberg.org/DeveloppeurPascal/QuartexPascal-Samples
 [submodule "Block-Page-Site-Server"]
 	path = Block-Page-Site-Server
-	url = https://codeberg.org/PatrickPremartin/Block-Page-Site-Server.git
+	url = https://codeberg.org/TrucsDevWeb/Block-Page-Site-Server.git
 [submodule "AllProjectsSubmodulesToBlockPageSiteServerDB"]
 	path = AllProjectsSubmodulesToBlockPageSiteServerDB
-	url = https://codeberg.org/PatrickPremartin/AllProjectsSubmodulesToBlockPageSiteServerDB.git
+	url = https://codeberg.org/TrucsDevWeb/AllProjectsSubmodulesToBlockPageSiteServerDB.git
 [submodule "Delphi-Projects-Template-On-Codeberg"]
 	path = Delphi-Projects-Template-On-Codeberg
-	url = https://codeberg.org/PatrickPremartin/Delphi-Projects-Template.git
+	url = https://codeberg.org/DeveloppeurPascal/Delphi-Projects-Template.git
 [submodule "Web-Projects-Template-On-Codeberg"]
 	path = Web-Projects-Template-On-Codeberg
-	url = https://codeberg.org/PatrickPremartin/Web-Projects-Template.git
+	url = https://codeberg.org/TrucsDevWeb/Web-Projects-Template.git
 [submodule "Web-Projects-Template-On-GitHub"]
 	path = Web-Projects-Template-On-GitHub
 	url = https://github.com/DeveloppeurPascal/Web-Projects-Template.git
@@ -603,88 +603,88 @@
 	url = https://github.com/DeveloppeurPascal/Delphi-Projects-Template.git
 [submodule "Delphi-FMX-Game-Snippets"]
 	path = Delphi-FMX-Game-Snippets
-	url = https://codeberg.org/PatrickPremartin/Delphi-FMX-Game-Snippets.git
+	url = https://codeberg.org/DeveloppeurPascal/Delphi-FMX-Game-Snippets.git
 [submodule "Delphi-samples"]
 	path = Delphi-samples
-	url = https://codeberg.org/PatrickPremartin/Delphi-samples.git
+	url = https://codeberg.org/DeveloppeurPascal/Delphi-samples.git
 [submodule "Koala-Match-3"]
 	path = Koala-Match-3
 	url = https://github.com/DeveloppeurPascal/Koala-Match-3.git
 [submodule "ChristmasGame-CodeRage2018"]
 	path = ChristmasGame-CodeRage2018
-	url = https://codeberg.org/PatrickPremartin/ChristmasGame-CodeRage2018.git
+	url = https://codeberg.org/Gamolf/ChristmasGame-CodeRage2018.git
 [submodule "ChristmasGameEvolution-CodeRage2025"]
 	path = ChristmasGameEvolution-CodeRage2025
-	url = https://codeberg.org/PatrickPremartin/ChristmasGameEvolution-CodeRage2025.git
+	url = https://codeberg.org/Gamolf/ChristmasGameEvolution-CodeRage2025.git
 [submodule "Socket-Messaging-Code-Generator"]
 	path = Socket-Messaging-Code-Generator
-	url = https://codeberg.org/PatrickPremartin/Socket-Messaging-Code-Generator.git
+	url = https://codeberg.org/OlfSoftware/Socket-Messaging-Code-Generator.git
 [submodule "SVGFolder2DelphiUnit"]
 	path = SVGFolder2DelphiUnit
-	url = https://codeberg.org/PatrickPremartin/SVGFolder2DelphiUnit.git
+	url = https://codeberg.org/OlfSoftware/SVGFolder2DelphiUnit.git
 [submodule "PicMobGenerator"]
 	path = PicMobGenerator
-	url = https://codeberg.org/PatrickPremartin/PicMobGenerator.git
+	url = https://codeberg.org/OlfSoftware/PicMobGenerator.git
 [submodule "GroupProjUpdater"]
 	path = GroupProjUpdater
-	url = https://codeberg.org/PatrickPremartin/GroupProjUpdater.git
+	url = https://codeberg.org/OlfSoftware/GroupProjUpdater.git
 [submodule "Folder2FMXImageList"]
 	path = Folder2FMXImageList
-	url = https://codeberg.org/PatrickPremartin/Folder2FMXImageList.git
+	url = https://codeberg.org/OlfSoftware/Folder2FMXImageList.git
 [submodule "CopyrightPascalProjects"]
 	path = CopyrightPascalProjects
-	url = https://codeberg.org/PatrickPremartin/CopyrightPascalProjects.git
+	url = https://codeberg.org/OlfSoftware/CopyrightPascalProjects.git
 [submodule "App-Stores-Screen-Captures-Generator"]
 	path = App-Stores-Screen-Captures-Generator
-	url = https://codeberg.org/PatrickPremartin/App-Stores-Screen-Captures-Generator.git
+	url = https://codeberg.org/OlfSoftware/App-Stores-Screen-Captures-Generator.git
 [submodule "DProj2WinSetup"]
 	path = DProj2WinSetup
-	url = https://codeberg.org/PatrickPremartin/DProj2WinSetup.git
+	url = https://codeberg.org/OlfSoftware/DProj2WinSetup.git
 [submodule "ExeBulkSigning"]
 	path = ExeBulkSigning
-	url = https://codeberg.org/PatrickPremartin/ExeBulkSigning.git
+	url = https://codeberg.org/OlfSoftware/ExeBulkSigning.git
 [submodule "Zicplay"]
 	path = Zicplay
-	url = https://codeberg.org/PatrickPremartin/Zicplay.git
+	url = https://codeberg.org/OlfSoftware/Zicplay.git
 [submodule "YTVideoSeries"]
 	path = YTVideoSeries
-	url = https://codeberg.org/PatrickPremartin/YTVideoSeries.git
+	url = https://codeberg.org/OlfSoftware/YTVideoSeries.git
 [submodule "XOR-Keys-Generator"]
 	path = XOR-Keys-Generator
-	url = https://codeberg.org/PatrickPremartin/XOR-Keys-Generator.git
+	url = https://codeberg.org/OlfSoftware/XOR-Keys-Generator.git
 [submodule "Video-Splitter"]
 	path = Video-Splitter
-	url = https://codeberg.org/PatrickPremartin/Video-Splitter.git
+	url = https://codeberg.org/OlfSoftware/Video-Splitter.git
 [submodule "Video-Merger"]
 	path = Video-Merger
-	url = https://codeberg.org/PatrickPremartin/Video-Merger.git
+	url = https://codeberg.org/OlfSoftware/Video-Merger.git
 [submodule "Video-Cutter"]
 	path = Video-Cutter
-	url = https://codeberg.org/PatrickPremartin/Video-Cutter.git
+	url = https://codeberg.org/OlfSoftware/Video-Cutter.git
 [submodule "Text2HTML"]
 	path = Text2HTML
-	url = https://codeberg.org/PatrickPremartin/Text2HTML.git
+	url = https://codeberg.org/OlfSoftware/Text2HTML.git
 [submodule "Swap-Keys-Generator"]
 	path = Swap-Keys-Generator
-	url = https://codeberg.org/PatrickPremartin/Swap-Keys-Generator.git
+	url = https://codeberg.org/OlfSoftware/Swap-Keys-Generator.git
 [submodule "Shift-Keys-Generator"]
 	path = Shift-Keys-Generator
-	url = https://codeberg.org/PatrickPremartin/Shift-Keys-Generator.git
+	url = https://codeberg.org/OlfSoftware/Shift-Keys-Generator.git
 [submodule "SUTOM_Helper"]
 	path = SUTOM_Helper
-	url = https://codeberg.org/PatrickPremartin/SUTOM_Helper.git
+	url = https://codeberg.org/OlfSoftware/SUTOM_Helper.git
 [submodule "Pic-Resize"]
 	path = Pic-Resize
-	url = https://codeberg.org/PatrickPremartin/Pic-Resize.git
+	url = https://codeberg.org/OlfSoftware/Pic-Resize.git
 [submodule "IDB-keys-Generator"]
 	path = IDB-keys-Generator
-	url = https://codeberg.org/PatrickPremartin/IDB-keys-Generator.git
+	url = https://codeberg.org/OlfSoftware/IDB-keys-Generator.git
 [submodule "HTML-Writer"]
 	path = HTML-Writer
-	url = https://codeberg.org/PatrickPremartin/HTML-Writer.git
+	url = https://codeberg.org/OlfSoftware/HTML-Writer.git
 [submodule "GooglePlayDeveloperBannerGenerator"]
 	path = GooglePlayDeveloperBannerGenerator
-	url = https://codeberg.org/PatrickPremartin/GooglePlayDeveloperBannerGenerator.git
+	url = https://codeberg.org/OlfSoftware/GooglePlayDeveloperBannerGenerator.git
 [submodule "Game-Template-For-Delphi-FireMonkey"]
 	path = Game-Template-For-Delphi-FireMonkey
 	url = https://codeberg.org/DeveloppeurPascal/Game-Template-For-Delphi-FireMonkey.git
