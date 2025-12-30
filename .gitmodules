@@ -691,3 +691,6 @@
 [submodule "Tools-Template-for-Delphi-FireMonkey"]
 	path = Tools-Template-for-Delphi-FireMonkey
 	url = https://codeberg.org/DeveloppeurPascal/Tools-Template-for-Delphi-FireMonkey.git
+[submodule "FMX-Styles-DM-Generator"]
+	path = FMX-Styles-DM-Generator
+	url = https://codeberg.org/OlfSoftware/FMX-Styles-DM-Generator.git
