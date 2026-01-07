@@ -694,3 +694,6 @@
 [submodule "FMX-Styles-DM-Generator"]
 	path = FMX-Styles-DM-Generator
 	url = https://codeberg.org/OlfSoftware/FMX-Styles-DM-Generator.git
+[submodule "Web-Task-Scheduler"]
+	path = Web-Task-Scheduler
+	url = https://codeberg.org/OlfSoftware/Web-Task-Scheduler.git
