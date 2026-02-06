@@ -691,3 +691,6 @@
 [submodule "Web-Task-Scheduler"]
 	path = Web-Task-Scheduler
 	url = https://codeberg.org/OlfSoftware/Web-Task-Scheduler.git
+[submodule "librairies-JavaScript"]
+	path = librairies-JavaScript
+	url = https://codeberg.org/TrucsDevWeb/librairies-JavaScript.git
