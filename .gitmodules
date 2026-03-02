@@ -694,3 +694,9 @@
 [submodule "Delphi-NetExtend-Library"]
 	path = Delphi-NetExtend-Library
 	url = https://codeberg.org/DeveloppeurPascal/Delphi-NetExtend-Library.git
+[submodule "librairies-JavaScript"]
+	path = librairies-JavaScript
+	url = https://codeberg.org/TrucsDevWeb/librairies-JavaScript.git
+[submodule "librairies-PHP"]
+	path = librairies-PHP
+	url = https://codeberg.org/TrucsDevWeb/librairies-PHP.git
