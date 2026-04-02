@@ -697,3 +697,6 @@
 [submodule "librairies-PHP"]
 	path = librairies-PHP
 	url = https://codeberg.org/TrucsDevWeb/librairies-PHP.git
+[submodule "librairies"]
+	path = librairies
+	url = https://github.com/DeveloppeurPascal/librairies.git
