@@ -13,9 +13,6 @@
 [submodule "Faire-une-application-web-avec-Delphi"]
 	path = Faire-une-application-web-avec-Delphi
 	url = https://github.com/DeveloppeurPascal/Faire-une-application-web-avec-Delphi.git
-[submodule "librairies"]
-	path = librairies
-	url = https://github.com/DeveloppeurPascal/librairies.git
 [submodule "TetrisLike"]
 	path = TetrisLike
 	url = https://github.com/DeveloppeurPascal/TetrisLike.git
