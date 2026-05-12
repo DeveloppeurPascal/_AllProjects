@@ -697,3 +697,6 @@
 [submodule "librairies"]
 	path = librairies
 	url = https://github.com/DeveloppeurPascal/librairies.git
+[submodule "EggPaq"]
+	path = EggPaq
+	url = https://codeberg.org/Gamolf/EggPaq.git
