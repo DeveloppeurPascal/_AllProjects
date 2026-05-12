@@ -547,9 +547,6 @@
 [submodule "Bidioo-v2-Delphi"]
 	path = Bidioo-v2-Delphi
 	url = https://github.com/DeveloppeurPascal/Bidioo-v2-Delphi.git
-[submodule "Eggpaq"]
-	path = Eggpaq
-	url = https://github.com/DeveloppeurPascal/Eggpaq.git
 [submodule "KDK-Training-2009"]
 	path = KDK-Training-2009
 	url = https://github.com/DeveloppeurPascal/KDK-Training-2009.git
