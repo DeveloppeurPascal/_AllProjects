@@ -65,7 +65,7 @@ To prepare my web development environment on a new computer or VM, I made [an in
 
 * [video games](https://github.com/DeveloppeurPascal/AGKBasic-Games-Pack)
 
-### Autres packs de projets
+### Other projets packs
 
 * [repo templates and starter kits](https://github.com/DeveloppeurPascal/DevPas-TemplatesAndStarterKits-Pack)
 * [all the public projects in my account](https://github.com/DeveloppeurPascal/_AllProjects)
