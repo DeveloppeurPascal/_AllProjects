@@ -8,9 +8,22 @@ This code repository simplify downloading all repositories from [DeveloppeurPasc
 
 ## Talks and conferences
 
+### Learning Delphi
+
+From time to time, I give presentations in the form of webinars or as part of online conferences. The recordings are available on [my course website](https://apprendre-delphi.fr/) for learning the Pascal language, Object Pascal, and Delphi.
+
+* [videos in French](https://apprendre-delphi.fr/points-techniques-et-presentations-en-francais.html)
+* [videos in English](https://apprendre-delphi.fr/points-techniques-et-presentations-en-anglais.html)
+
+These presentations and many others are also available on [PeerTube](https://videos.apprendre-delphi.fr) and various YouTube channels ([my personal channel](https://www.youtube.com/@patrickpremartin), [the Développeur Pascal channel](https://www.youtube.com/@DeveloppeurPascal), [the Barnsten France channel](https://www.youtube.com/@BarnstenFrance), and [the Embarcadero Technologies channel](https://www.youtube.com/@EmbarcaderoTech)).
+
 ### Twitch
 
 Follow my development streams of software, video games, mobile applications and websites on [my Twitch channel](https://www.twitch.tv/patrickpremartin) or as replays on [Serial Streameur](https://serialstreameur.fr) mostly in French.
+
+### Web Development Videos and Courses
+
+Between two live developed web projects, I’ve occasionally recorded tutorials, courses, or online presentations. You can watch the replays on [PeerTube](https://videos.trucs-de-developpeur-web.fr) or [my YouTube channel](https://www.youtube.com/@patrickpremartin).
 
 ## Source code installation
 
