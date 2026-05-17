@@ -42,7 +42,7 @@ git submodule init
 git submodule update --remote
 ```
 
-[This repository](https://github.com/DeveloppeurPascal/_AllProjects) and all projects are available on [my GitHub account](https://github.com/DeveloppeurPascal).
+[This repository](https://github.com/DeveloppeurPascal/_AllProjects) can be downloaded from [my GitHub account](https://github.com/DeveloppeurPascal).
 
 ## License
 
@@ -50,7 +50,7 @@ This project is under the MIT license. It's not the case for all of my other pro
 
 ## Project packages
 
-To simplify GitHub account backups or local installation of projects, I offer several thematic repository packs. You can use them to download the relevant projects and check them out. They're probably not compilable as is, but they'll give you an idea of the open source projects available on [my GitHub account](https://github.com/DeveloppeurPascal), and you'll still be able to access them directly.
+To simplify GitHub account backups or local installation of projects, I offer several thematic repository packs. You can use them to download the relevant projects and check them out. They're probably not compilable as is, but they'll give you an idea of my open source projects available on [GitHub](https://github.com/DeveloppeurPascal) or [Codeberg](https://codeberg.org/PatrickPremartin).
 
 ### Delphi
 
@@ -81,7 +81,7 @@ To prepare my web development environment on a new computer or VM, I made [an in
 ### Other projets packs
 
 * [repo templates and starter kits](https://github.com/DeveloppeurPascal/DevPas-TemplatesAndStarterKits-Pack)
-* [all the public projects in my account](https://github.com/DeveloppeurPascal/_AllProjects)
+* [all the projects I share](https://github.com/DeveloppeurPascal/_AllProjects)
 
 ## How to ask a new feature, report a bug or a security issue ?
 

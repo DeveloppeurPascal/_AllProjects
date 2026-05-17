@@ -42,7 +42,7 @@ git submodule init
 git submodule update --remote
 ```
 
-[Ce dépôt de code](https://github.com/DeveloppeurPascal/_AllProjects) et tous ses sous-projets sont disponibles sur [mon compte GitHub](https://github.com/DeveloppeurPascal).
+[Ce dépôt de code](https://github.com/DeveloppeurPascal/_AllProjects) est téléchargeable depuis [mon compte GitHub](https://github.com/DeveloppeurPascal).
 
 ## Licence
 
@@ -50,7 +50,7 @@ Ce projet est sous licence MIT. Ce n'est pas le cas de mes autres projets. Regar
 
 ## Packs de projets
 
-Afin de me simplifier les sauvegardes du compte GitHub ou l'installation locale de projets je propose plusieurs packs de dépôts thématiques. Vous pouvez les utiliser pour télécharger les projets concernés et les consulter. Il est probable qu'ils ne soient pas compilables tels quels mais ça vous donnera une idée des projets open sources disponibles sur [mon compte GitHub](https://github.com/DeveloppeurPascal) et vous pourrez toujours y accéder directement.
+Afin de me simplifier les sauvegardes du compte GitHub ou l'installation locale de projets je propose plusieurs packs de dépôts thématiques. Vous pouvez les utiliser pour télécharger les projets concernés et les consulter. Il est probable qu'ils ne soient pas compilables tels quels mais ça vous donnera une idée de mes projets open sources disponibles sur [GitHub](https://github.com/DeveloppeurPascal) ou [Codeberg](https://codeberg.org/PatrickPremartin).
 
 ### Delphi
 
@@ -81,7 +81,7 @@ Pour préparer mon environnement de développement web sur un nouvel ordinateur 
 ### Autres packs de projets
 
 * [modèles de dépôts de code et kits de démarrage de projets](https://github.com/DeveloppeurPascal/DevPas-TemplatesAndStarterKits-Pack)
-* [l'intégralité des projets publics de mon compte](https://github.com/DeveloppeurPascal/_AllProjects)
+* [tous les projets que je partage](https://github.com/DeveloppeurPascal/_AllProjects)
 
 ## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
 
