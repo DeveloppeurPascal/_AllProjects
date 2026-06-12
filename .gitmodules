@@ -694,3 +694,9 @@
 [submodule "EggPaq"]
 	path = EggPaq
 	url = https://codeberg.org/Gamolf/EggPaq.git
+[submodule "Spooch"]
+	path = Spooch
+	url = https://codeberg.org/Gamolf/Spooch.git
+[submodule "Sporgloo-KenneyJam2023"]
+	path = Sporgloo-KenneyJam2023
+	url = https://codeberg.org/Gamolf/Sporgloo-KenneyJam2023.git
