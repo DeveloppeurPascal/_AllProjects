@@ -223,9 +223,6 @@
 [submodule "My-day-in-pictures"]
 	path = My-day-in-pictures
 	url = https://github.com/DeveloppeurPascal/My-day-in-pictures.git
-[submodule "Spooch"]
-	path = Spooch
-	url = https://github.com/DeveloppeurPascal/Spooch.git
 [submodule "Champter"]
 	path = Champter
 	url = https://github.com/DeveloppeurPascal/Champter.git
@@ -505,9 +502,6 @@
 [submodule "DAD48-LudumDare48"]
 	path = DAD48-LudumDare48
 	url = https://github.com/DeveloppeurPascal/DAD48-LudumDare48.git
-[submodule "Sporgloo-KenneyJam2023"]
-	path = Sporgloo-KenneyJam2023
-	url = https://github.com/DeveloppeurPascal/Sporgloo-KenneyJam2023.git
 [submodule "Colarvest-LudumDare52"]
 	path = Colarvest-LudumDare52
 	url = https://github.com/DeveloppeurPascal/Colarvest-LudumDare52.git
