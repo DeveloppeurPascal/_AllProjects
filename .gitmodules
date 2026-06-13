@@ -256,9 +256,6 @@
 [submodule "Socket-Messaging-Library"]
 	path = Socket-Messaging-Library
 	url = https://github.com/DeveloppeurPascal/Socket-Messaging-Library.git
-[submodule "__MyMinimalDependenciesForWorkingWithDelphi"]
-	path = __MyMinimalDependenciesForWorkingWithDelphi
-	url = https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi.git
 [submodule "__MyMinimalDependenciesForWorkingWithPHP"]
 	path = __MyMinimalDependenciesForWorkingWithPHP
 	url = https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithPHP.git
