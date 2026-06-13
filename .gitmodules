@@ -697,3 +697,6 @@
 [submodule "Sporgloo-KenneyJam2023"]
 	path = Sporgloo-KenneyJam2023
 	url = https://codeberg.org/Gamolf/Sporgloo-KenneyJam2023.git
+[submodule "__MyMinimalDependenciesForWorkingWithDelphi"]
+	path = __MyMinimalDependenciesForWorkingWithDelphi
+	url = https://codeberg.org/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi.git
