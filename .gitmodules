@@ -697,3 +697,6 @@
 [submodule "__MyMinimalDependenciesForWorkingWithDelphi"]
 	path = __MyMinimalDependenciesForWorkingWithDelphi
 	url = https://codeberg.org/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi.git
+[submodule "FMX-Tools-Starter-Kit"]
+	path = FMX-Tools-Starter-Kit
+	url = https://codeberg.org/DeveloppeurPascal/FMX-Tools-Starter-Kit.git
