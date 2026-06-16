@@ -679,3 +679,24 @@
 [submodule "Gamolf-FMX-Game-Starter-Kit"]
 	path = Gamolf-FMX-Game-Starter-Kit
 	url = https://codeberg.org/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
+[submodule "DelphiBooks4Delphi"]
+	path = DelphiBooks4Delphi
+	url = https://codeberg.org/Delphi-Books/DelphiBooks4Delphi.git
+[submodule "DelphiBooks4JavaScript"]
+	path = DelphiBooks4JavaScript
+	url = https://codeberg.org/Delphi-Books/DelphiBooks4JavaScript.git
+[submodule "DelphiBooks4PHP"]
+	path = DelphiBooks4PHP
+	url = https://codeberg.org/Delphi-Books/DelphiBooks4PHP.git
+[submodule "DelphiBooks-Common"]
+	path = DelphiBooks-Common
+	url = https://codeberg.org/Delphi-Books/DelphiBooks-Common.git
+[submodule "DelphiBooks-DBAdmin"]
+	path = DelphiBooks-DBAdmin
+	url = https://codeberg.org/Delphi-Books/DelphiBooks-DBAdmin.git
+[submodule "DelphiBooks-WebSite"]
+	path = DelphiBooks-WebSite
+	url = https://codeberg.org/Delphi-Books/DelphiBooks-WebSite.git
+[submodule "DelphiBooks-WSBuilder"]
+	path = DelphiBooks-WSBuilder
+	url = https://codeberg.org/Delphi-Books/DelphiBooks-WSBuilder.git
