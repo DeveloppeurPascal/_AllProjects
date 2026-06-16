@@ -127,9 +127,6 @@
 [submodule "programmez-hs7"]
 	path = programmez-hs7
 	url = https://github.com/DeveloppeurPascal/programmez-hs7.git
-[submodule "DelphiBooks-WebSite"]
-	path = DelphiBooks-WebSite
-	url = https://github.com/DeveloppeurPascal/DelphiBooks-WebSite.git
 [submodule "VaSur-Light"]
 	path = VaSur-Light
 	url = https://github.com/DeveloppeurPascal/VaSur-Light.git
@@ -232,24 +229,6 @@
 [submodule "Delphi-Game-Engine"]
 	path = Delphi-Game-Engine
 	url = https://github.com/DeveloppeurPascal/Delphi-Game-Engine.git
-[submodule "DelphiBooks4Delphi"]
-	path = DelphiBooks4Delphi
-	url = https://github.com/DeveloppeurPascal/DelphiBooks4Delphi.git
-[submodule "DelphiBooks4JavaScript"]
-	path = DelphiBooks4JavaScript
-	url = https://github.com/DeveloppeurPascal/DelphiBooks4JavaScript.git
-[submodule "DelphiBooks4PHP"]
-	path = DelphiBooks4PHP
-	url = https://github.com/DeveloppeurPascal/DelphiBooks4PHP.git
-[submodule "DelphiBooks-Common"]
-	path = DelphiBooks-Common
-	url = https://github.com/DeveloppeurPascal/DelphiBooks-Common.git
-[submodule "DelphiBooks-WSBuilder"]
-	path = DelphiBooks-WSBuilder
-	url = https://github.com/DeveloppeurPascal/DelphiBooks-WSBuilder.git
-[submodule "DelphiBooks-DBAdmin"]
-	path = DelphiBooks-DBAdmin
-	url = https://github.com/DeveloppeurPascal/DelphiBooks-DBAdmin.git
 [submodule "Audio-Tools-Library"]
 	path = Audio-Tools-Library
 	url = https://github.com/DeveloppeurPascal/Audio-Tools-Library.git
