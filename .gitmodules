@@ -700,3 +700,6 @@
 [submodule "Minimal-FireMonkey-Project"]
 	path = Minimal-FireMonkey-Project
 	url = https://codeberg.org/DeveloppeurPascal/Minimal-FireMonkey-Project.git
+[submodule "one-shot-tools"]
+	path = one-shot-tools
+	url = https://codeberg.org/DeveloppeurPascal/one-shot-tools.git
