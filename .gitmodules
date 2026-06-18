@@ -700,3 +700,6 @@
 [submodule "one-shot-tools"]
 	path = one-shot-tools
 	url = https://codeberg.org/DeveloppeurPascal/one-shot-tools.git
+[submodule "Digikoo-v2-Delphi"]
+	path = Digikoo-v2-Delphi
+	url = https://codeberg.org/Gamolf/Digikoo-v2-Delphi.git
