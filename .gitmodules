@@ -553,9 +553,6 @@
 [submodule "Delphi-samples"]
 	path = Delphi-samples
 	url = https://codeberg.org/DeveloppeurPascal/Delphi-samples.git
-[submodule "Koala-Match-3"]
-	path = Koala-Match-3
-	url = https://github.com/DeveloppeurPascal/Koala-Match-3.git
 [submodule "ChristmasGame-CodeRage2018"]
 	path = ChristmasGame-CodeRage2018
 	url = https://codeberg.org/Gamolf/ChristmasGame-CodeRage2018.git
