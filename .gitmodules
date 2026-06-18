@@ -700,3 +700,6 @@
 [submodule "Digikoo-v2-Delphi"]
 	path = Digikoo-v2-Delphi
 	url = https://codeberg.org/Gamolf/Digikoo-v2-Delphi.git
+[submodule "Koala-Match-3"]
+	path = Koala-Match-3
+	url = https://codeberg.org/Gamolf/Koala-Match-3.git
