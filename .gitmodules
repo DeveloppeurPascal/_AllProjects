@@ -691,3 +691,15 @@
 [submodule "Koala-Match-3"]
 	path = Koala-Match-3
 	url = https://codeberg.org/Gamolf/Koala-Match-3.git
+[submodule "WhereIsBernie-GGJ21"]
+	path = WhereIsBernie-GGJ21
+	url = https://codeberg.org/Gamolf/WhereIsBernie-GGJ21.git
+[submodule "TetrisLike"]
+	path = TetrisLike
+	url = https://codeberg.org/Gamolf/TetrisLike.git
+[submodule "Bidioo-v2-Delphi"]
+	path = Bidioo-v2-Delphi
+	url = https://codeberg.org/Gamolf/Bidioo-v2-Delphi.git
+[submodule "BoiteAMeuh"]
+	path = BoiteAMeuh
+	url = https://codeberg.org/Gamolf/BoiteAMeuh.git
