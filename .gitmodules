@@ -13,9 +13,6 @@
 [submodule "Faire-une-application-web-avec-Delphi"]
 	path = Faire-une-application-web-avec-Delphi
 	url = https://github.com/DeveloppeurPascal/Faire-une-application-web-avec-Delphi.git
-[submodule "TetrisLike"]
-	path = TetrisLike
-	url = https://github.com/DeveloppeurPascal/TetrisLike.git
 [submodule "MonitoringTournamentPlayerScreen"]
 	path = MonitoringTournamentPlayerScreen
 	url = https://github.com/DeveloppeurPascal/MonitoringTournamentPlayerScreen.git
@@ -25,12 +22,6 @@
 [submodule "DeepL-Delphi-client"]
 	path = DeepL-Delphi-client
 	url = https://github.com/DeveloppeurPascal/DeepL-Delphi-client.git
-[submodule "WhereIsBernie-GGJ21"]
-	path = WhereIsBernie-GGJ21
-	url = https://github.com/DeveloppeurPascal/WhereIsBernie-GGJ21.git
-[submodule "BoiteAMeuh"]
-	path = BoiteAMeuh
-	url = https://github.com/DeveloppeurPascal/BoiteAMeuh.git
 [submodule "My-Advent-Of-Code-Delphi-Projects"]
 	path = My-Advent-Of-Code-Delphi-Projects
 	url = https://github.com/DeveloppeurPascal/My-Advent-Of-Code-Delphi-Projects.git
@@ -502,9 +493,6 @@
 [submodule "Bidioo-v1-AppGameKit"]
 	path = Bidioo-v1-AppGameKit
 	url = https://github.com/DeveloppeurPascal/Bidioo-v1-AppGameKit.git
-[submodule "Bidioo-v2-Delphi"]
-	path = Bidioo-v2-Delphi
-	url = https://github.com/DeveloppeurPascal/Bidioo-v2-Delphi.git
 [submodule "KDK-Training-2009"]
 	path = KDK-Training-2009
 	url = https://github.com/DeveloppeurPascal/KDK-Training-2009.git
